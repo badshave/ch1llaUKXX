@@ -1,0 +1,1351 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 21 - Tottenham Hotspur vs Manchester City Sun 4:30PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 21 - Tottenham Hotspur vs Manchester City Sun 4:30PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196385
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 20 - Tottenham Hotspur vs Manchester City Sun 4:30PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 20 - Tottenham Hotspur vs Manchester City Sun 4:30PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 19 - Nottingham Forest vs Leeds United Sun 2PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 19 - Nottingham Forest vs Leeds United Sun 2PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 18 - Nottingham Forest vs Leeds United Sun 2PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 18 - Nottingham Forest vs Leeds United Sun 2PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 17 - Newcastle United vs West Ham United Sat 5:30PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 17 - Newcastle United vs West Ham United Sat 5:30PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196381
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 16 - Newcastle United vs West Ham United Sat 5:30PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 16 - Newcastle United vs West Ham United Sat 5:30PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 15 - Wolverhampton Wanderers vs Liverpool Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 15 - Wolverhampton Wanderers vs Liverpool Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 14 - Wolverhampton Wanderers vs Liverpool Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 14 - Wolverhampton Wanderers vs Liverpool Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196378
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 13 - Manchester United vs Crystal Palace Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 13 - Manchester United vs Crystal Palace Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 12 - Manchester United vs Crystal Palace Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 12 - Manchester United vs Crystal Palace Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 11 - Brighton & Hove Albion vs AFC Bournemouth Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 11 - Brighton & Hove Albion vs AFC Bournemouth Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 10 - Brighton & Hove Albion vs AFC Bournemouth Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 10 - Brighton & Hove Albion vs AFC Bournemouth Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 09 - Brentford vs Southampton Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 09 - Brentford vs Southampton Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 08 - Brentford vs Southampton Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 08 - Brentford vs Southampton Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 07 - Aston Villa vs Leicester City Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 07 - Aston Villa vs Leicester City Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 06 - Aston Villa vs Leicester City Sat 3PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 06 - Aston Villa vs Leicester City Sat 3PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 05 - Everton vs Arsenal Sat 12:30PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 05 - Everton vs Arsenal Sat 12:30PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 04 - Everton vs Arsenal Sat 12:30PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 04 - Everton vs Arsenal Sat 12:30PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 03 - Chelsea vs Fulham Fri 8PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 03 - Chelsea vs Fulham Fri 8PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196367
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 02 - Chelsea vs Fulham Fri 8PM" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 02 - Chelsea vs Fulham Fri 8PM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 01 - Premier League Weekend" tvg-logo="" group-title="EPL | ENGLISH PREMIER LEAGUE",EPL 01 - Premier League Weekend
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2196365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Lfc" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCJmFysBZWxVXrB3W69V-nPzk-TnRI1n2wtPHOKVCvlRQ.png" group-title="UK | CHAMP",Lfc
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2191972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Premier 1 HD" tvg-name="Premier Sports 1" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrEFYa-f_m9fiN7ln2Qn-UITrWsudAjNEXCLgZpxjUpwg.png" group-title="PREMIER SPORTS",Premier Sports 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2166277
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Premier 2 HD" tvg-name="Premier Sports 2" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypv9jJ8ZqeLFcCBmrZzJKGoHVt57YMsefeETwjpHcquSQ.png" group-title="PREMIER SPORTS",Premier Sports 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2166276
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Rangers V Aberdeen" tvg-logo="" group-title="UK | SPFL",Rangers V Aberdeen
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2166257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Celtic TV" tvg-logo="" group-title="UK | SPFL",Celtic TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164605
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Aberdeen TV" tvg-logo="" group-title="UK | SPFL",Aberdeen TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164604
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dundee United TV" tvg-logo="" group-title="UK | SPFL",Dundee United TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164603
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hearts TV" tvg-logo="" group-title="UK | SPFL",Hearts TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164602
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Hibernian TV" tvg-logo="" group-title="UK | SPFL",Hibernian TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164601
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dundee TV" tvg-logo="" group-title="UK | SPFL",Dundee TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164600
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Livingston TV" tvg-logo="" group-title="UK | SPFL",Livingston TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164599
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Motherwell TV" tvg-logo="" group-title="UK | SPFL",Motherwell TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164598
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ross County TV" tvg-logo="" group-title="UK | SPFL",Ross County TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164597
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="St Johnstone TV" tvg-logo="" group-title="UK | SPFL",St Johnstone TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164596
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="St Mirren TV" tvg-logo="" group-title="UK | SPFL",St Mirren TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164595
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Rangers TV" tvg-logo="http://mmstv.xyz/picons/" group-title="UK | SPFL",Rangers TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164594
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL01: " tvg-logo="" group-title="UK | SPFL",SPFL01: 
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164593
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL02:" tvg-logo="" group-title="UK | SPFL",SPFL02:
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164592
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL03: " tvg-logo="" group-title="UK | SPFL",SPFL03: 
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164591
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL04: " tvg-logo="" group-title="UK | SPFL",SPFL04: 
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164590
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL05: " tvg-logo="" group-title="UK | SPFL",SPFL05: 
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164589
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL06: " tvg-logo="" group-title="UK | SPFL",SPFL06: 
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164588
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL Champ 05 |  |  Thu 1st 12:00AM" tvg-logo="http://mmstv.xyz/picons/uk/spflchamp.png" group-title="UK | SPFL",SPFL Champ 05 |  |  Thu 1st 12:00AM
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164587
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL Champ 04 | 15:00 Inverness CT vs Queen's Park" tvg-logo="http://mmstv.xyz/picons/uk/spflchamp.png" group-title="UK | SPFL",SPFL Champ 04 | 15:00 Inverness CT vs Queen's Park
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164586
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL Champ 03 | 15:00 Hamilton Academical vs Greenock Morton" tvg-logo="http://mmstv.xyz/picons/uk/spflchamp.png" group-title="UK | SPFL",SPFL Champ 03 | 15:00 Hamilton Academical vs Greenock Morton
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164585
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL Champ 02 | 15:00 Dundee vs Partick Thistle" tvg-logo="http://mmstv.xyz/picons/uk/spflchamp.png" group-title="UK | SPFL",SPFL Champ 02 | 15:00 Dundee vs Partick Thistle
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164584
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL Champ 01 | 15:00 Cove Rangers vs Raith Rovers" tvg-logo="http://mmstv.xyz/picons/uk/spflchamp.png" group-title="UK | SPFL",SPFL Champ 01 | 15:00 Cove Rangers vs Raith Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164583
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SPFL Champ 00 | 15:00 Ayr United vs Arbroath" tvg-logo="http://mmstv.xyz/picons/uk/spflchamp.png" group-title="UK | SPFL",SPFL Champ 00 | 15:00 Ayr United vs Arbroath
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164582
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | AFC Wimbledon" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYzoPSTOMldaRHkbxVFPkYN60uJzZX8OX2ay_NVEOatJGM4SqklVa5jw4UI6Lpz6y9K7kCssCRTdkAnJnkQuD71U8ldGF9YAsEihx0jGmQf0SA.png" group-title="UK | IFOLLOW",L2 | AFC Wimbledon
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164581
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Barrow" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtKr4x2UVZQ1X1rDvjuetAR6h892BMKEzm7pyyolGNLwsnwmqXoxKX5I9l25iTDElM1X_KQcCOLm_HjkMD-fbxRw.png" group-title="UK | IFOLLOW",L2 | Barrow
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164580
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Bradford City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaapuiIkCPwE6qvyGfW4FNEdaQNRQiJKMRjs7KdFMyiRp0E1JZ6V4ro64A3GRTIGNQ.png" group-title="UK | IFOLLOW",L2 | Bradford City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Carlisle United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYMkXDfArBy9brqLzMTndTTXLJHQy8XcZh09kz00qPnab944R2UmezK0GtJT_uOSKE.png" group-title="UK | IFOLLOW",L2 | Carlisle United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164578
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Colchester United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYPs_o9AJqeCM16Dsr-dC_afXsfiVuLrtleGJnQqH1qprG8Zyhgy6LJOFS6EKMHqn0.png" group-title="UK | IFOLLOW",L2 | Colchester United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164577
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Crawley Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMQ3JPiPAZfZh4htHEPKqlnadEfFYrIehzg-wpjiFzfoCciI02bODZCKkQOaTR5KT7JMmy_teZ5oTFueROKbuN4a8P6KyvnBwajxBHdMHF97gPxSLvmKkd-1OO6KjMJmXul93V7-gmlN_5ObL4vb0AM0rguzjwd-Q8Ep6TYuve-78.png" group-title="UK | IFOLLOW",L2 | Crawley Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164576
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Crewe Alexandra" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYYpGW3RKmRmqV_MnRMB2Y1kGLlQRdqzOxdujC3SSHFXDssE0cqtfzZRLYTujdAU0Q.png" group-title="UK | IFOLLOW",L2 | Crewe Alexandra
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164575
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Doncaster Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-a7z0NGIqBrq5_dJMa4YEIHXhPD4D49Yk2bgqjhrokdE.png" group-title="UK | IFOLLOW",L2 | Doncaster Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164574
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Gillingham" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEzIga5thmqPg0sWyFwB4bL5CD-GeLXEpNMAmBfy0jTiZ8.png" group-title="UK | IFOLLOW",L2 | Gillingham
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164573
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Grimsby Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMQ3JPiPAZfZh4htHEPKqlnadEfFYrIehzg-wpjiFzfoCciI02bODZCKkQOaTR5KT7JMmy_teZ5oTFueROKbuN4YU3qtDFtWKdKWEkvVAOJMTIG0V63AxerB3ecW7EpV7cVXVSFblq2dO_dco9KpoMraJ2mBep68A-RIU1FS95wVg.png" group-title="UK | IFOLLOW",L2 | Grimsby Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164572
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Harrogate Town" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtBrcBuwphpedFhQa1vXsVWJ4uy6pWpBX8AEi55cTQHtLW01j-PXFuMtMVBgPgr6rvA.png" group-title="UK | IFOLLOW",L2 | Harrogate Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164571
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Hartlepool United" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYyAWXaa0tBvyNrKc5WbKiz7HX6uSuLFetfbtrJd-FXBGmT2p-kTQYA5bst1lMJTKPAm03FKM-8p0FuTv1ZtcSH9WaufZO47Uio2gA45P7_ysA.png" group-title="UK | IFOLLOW",L2 | Hartlepool United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164570
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Leyton Orient" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtKbs5zpxCiqU-aHsXM4cPycXopLa8Z1aHiuD8aOnSEImmOsVrrq8xmkntCpSptJyeQ.png" group-title="UK | IFOLLOW",L2 | Leyton Orient
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164569
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Mansfield Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaC6XcZtp0h_1a_M_ojoOCqBo9KdYMw6wKsZRFeKe5rVvX0MUl_Bre9b_7rHDFIb1g.png" group-title="UK | IFOLLOW",L2 | Mansfield Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164568
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Newport County" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEznELGLWcsenZKYdhWk7XX0awcETFdeTvu5tpnJU0nfWg.png" group-title="UK | IFOLLOW",L2 | Newport County
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164567
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Northampton Town" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtFO1h3Vr50bv7ANuOr_7oxX1WLDQfEEY875HMMq9boRGYwiOA9Tp2zLFU-ueuOrSIg.png" group-title="UK | IFOLLOW",L2 | Northampton Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164566
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Rochdale" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZCn1oXXyPeWP_KyyBY13Kck-eGKXdestm5xS6nAKXhK1Q3YLvaL3JGJPH134_4jBs.png" group-title="UK | IFOLLOW",L2 | Rochdale
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164565
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Salford City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtL1jzlovPrhYwTjpVcM9aJMaaKykJ8b161R_TM8SgiqQYU4LrQstBjkxoWix00u_Gw.png" group-title="UK | IFOLLOW",L2 | Salford City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164564
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Stevenage" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeublbuJGEiiVmdLa7WDC4TiHKFZ_EDDNIS0j2221ycP_Ct4tBTCgW6sTQurbUWu_ugRWR4fDbt5Hv-iihXM9MbtI.png" group-title="UK | IFOLLOW",L2 | Stevenage
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164563
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Stockport County" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtOxM8U8_DxE85X4oS5WQ3MyeThof5twVIxTARP8n7InXtRaPK0dAP81aRmcucMAUVSa6HlXsUwHy-btsfOgLn-g.png" group-title="UK | IFOLLOW",L2 | Stockport County
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164562
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Sutton United" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtPEcJwuG-LEjMLyzEaLrZ5Qy3bszLAzmWyEbLfr0Uj8xACBpbZdyBejL7lsAQ6nBzg.png" group-title="UK | IFOLLOW",L2 | Sutton United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Swindon Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYYpGW3RKmRmqV_MnRMB2Y1pbe4LYvzUJNVFdgNoPe82JobjAVjfKfCmxEMZfI8KNU.png" group-title="UK | IFOLLOW",L2 | Swindon Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164560
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Tranmere Rovers" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYxDfSDPvU7n8oT1Z6Nm6vl6snwCyloo9lzr5KCTgjl6rx0eCH4ZBWiVVcyGoo83qEAvCaVPHE2d7_jxhY23sA2HL0azVM0oAw7TrTY0cM1abQ.png" group-title="UK | IFOLLOW",L2 | Tranmere Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L2 | Walsall" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZYfQY3ErPHh_wDsKh6qq8ichOHq7WuaIUb-dyDb3OsPArDqR5sznb1i7n7u_DFafA.png" group-title="UK | IFOLLOW",L2 | Walsall
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164558
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Accrington Stanley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMQ3JPiPAZfZh4htHEPKqlnadEfFYrIehzg-wpjiFzfoD3DhglpJ3aBM1NPz2Tb-rRwOjsc77E4-EeN6Ct5TlAgQXTzQggsuIoHd_E0-AuOJNwfSlJgFGdDqcEr17UjAwFMhCjXLFAeLtJNjZIXN8zndPaJk2_TJsMM34C_c0XNkw.png" group-title="UK | IFOLLOW",L1 | Accrington Stanley
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164557
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Barnley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubUQT7cgv7jmzjjXjyA-Amv27pS8Ve7yZnG2tDWYJ3kWJ0nL-jrPkTUiQz9nbylZyA.png" group-title="UK | IFOLLOW",L1 | Barnley
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164556
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Bolton Wanderers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubXrT1MWdnmXzWuwr-55Z4a0P02sPDWORsWtosUss_gMoBYui-7Hr-wIJznpKcnA3g.png" group-title="UK | IFOLLOW",L1 | Bolton Wanderers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164555
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Bristol Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubEk1vfol5WiCaZYx94GWZzu9YhSzwRBlurMkH9x5CMlFT537QWTyB08qfSNnwe7j0.png" group-title="UK | IFOLLOW",L1 | Bristol Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164554
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Burton Albion" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeua-nh8Qq6JZNBhK6jzJH5LQXSqdEdZ05ABq1k71k9IsnN5dqpRLhMzFB29ZqokwW4A.png" group-title="UK | IFOLLOW",L1 | Burton Albion
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164553
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Cambridge United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZVpzYPPAvqo5n8h9AbiHEKBDeL5yDzFj4zkFiedcXGIfN1fDMZFkO1GvKLQaPqp28.png" group-title="UK | IFOLLOW",L1 | Cambridge United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164552
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Charlton Athletic" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubs9s5EBZFddkpjKgbmcksYltovrsPw2oJwiMCDStHBXHIpU1hu0VT-Ve88QamgEqo.png" group-title="UK | IFOLLOW",L1 | Charlton Athletic
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164551
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Cheltenham Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZjtLlVMtAZSaGxHoVIxMqyM2jA7jzWtLSgZCQbACRtV15KNKIJhq1rLC3E64fR7NY.png" group-title="UK | IFOLLOW",L1 | Cheltenham Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164550
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Derby County" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZXMDlCx9S6QvK6pRUpTa37_Xuum9pOhTSv9xOTg07xuNKHrio9Wtp0kEUVDiBVwVpUnIond_A8dDzoW_0hdNSyRCXXwDQMNzRGlHvVSt32cO2bn-A4uizrT1BFEgWCXuvsaNu-eV_ixSCzrmHvG3NJ7E_240hT-T6NUnM4V9PXQn.png" group-title="UK | IFOLLOW",L1 | Derby County
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164549
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Exeter City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtISzFEmTKCQMdxI4vHPke07RUtFTQ7Or29lt95uNf67cu1D70y80RQAUNpgT8CSPHA.png" group-title="UK | IFOLLOW",L1 | Exeter City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164548
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Fleetwood Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-FoBSQWn1I_B4PnBHD16TYxs2VN4CLSlSNjz2dcoXVJc.png" group-title="UK | IFOLLOW",L1 | Fleetwood Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164547
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Forest Green Rovers" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtJlZZha-fedfZV85-dGJZDpz7LvH60xGMOmLYzpASrGHOyuGIMQVESM4HnAvHmNjgXuDkIADSct6g0z6PNb3rxE.png" group-title="UK | IFOLLOW",L1 | Forest Green Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164546
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Ipswich Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZ48aPTI7_vugIzFHiemLElacfiCKw56MNkP9bAEgQLYDNupE4nijDK7mu032_pFY4.png" group-title="UK | IFOLLOW",L1 | Ipswich Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164545
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Lincoln City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3vAzpPQbWwa_iZKvMHYtbxrh4ZDyyXpBfV7v28k_ziTsze53xV1E0ClpUWBlfi53cV_Ov4rEaj0tGgSnHGQQXow.png" group-title="UK | IFOLLOW",L1 | Lincoln City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164544
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | MK Dons" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYwa8k1Nu-rATAT0Hc2Bfcvn4IVR-HuWWxLFlziHDN0_E8tPKlKPNWMrMbl0HabC4TB7UANjirG9eIFrmt2bhBE_bbt0wo5QRgYksCZsKRvDlg.png" group-title="UK | IFOLLOW",L1 | MK Dons
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164543
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Morecambe" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMCMnu-Oe0Xkt3GUSC6F2RbQgkgngCjG0Nq8VYAQDM_oHlP6j0eg1vkI5bh7R2HAnDoKalJyVo4hThC47UG1JQf5Z5fN50NKOu8DQP-ztKqvYBqcNX03wmlT7DKGnuaCAvBRLGPkfBNE6YqWaZ_oP3LfUdj1qVVQQ51kuJPPmBY3Y.png" group-title="UK | IFOLLOW",L1 | Morecambe
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164542
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Oxford United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY_Nx1zp-4J8HdYNIKrMyYCxHLEzaZg7nbLAuuvP0nblZ4jDDslnT_JZbJ35VsF6tpEFxya88fm7wgEJsKoAgw-cNry_AJqGTSogzi6Ev-4YcB_D8hTT1AhE8uiM5AKOUA.png" group-title="UK | IFOLLOW",L1 | Oxford United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164541
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Peterborough United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeub-4EzHDilXSOjrTNoPYn1oABPvRblefqQzHl9B8O9FEQtdl9dcBmOwNdFBMS0yg4s6ul9Irsnio07sC59WXcbr.png" group-title="UK | IFOLLOW",L1 | Peterborough United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164540
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Plymouth Argyle" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY54Esq8k19yRz5Zoi00c6SEGrr9fP-7Fp6fYu64LUyzdd7LrDhFpRH5ELAHTy4ios.png" group-title="UK | IFOLLOW",L1 | Plymouth Argyle
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164539
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Portsmouth" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3vAzpPQbWwa_iZKvMHYtbxv3G4rF1x3UfY1-tylrNmJonC4ZWvZ-wou5pDXyySAKwNRGIF8xpljGo_wDex5kHjQ.png" group-title="UK | IFOLLOW",L1 | Portsmouth
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164538
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Port Vale" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubXrT1MWdnmXzWuwr-55Z4a4ibF_ZgcMRZ0TuuXWU60xPJW1NgkrbEBedKKO5Y-JME.png" group-title="UK | IFOLLOW",L1 | Port Vale
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164537
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Sheffield Wednesday" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubqCPkM9O5wzRlDMeBqAvHrbTmkKfz8tzxV2esattfHmSKs8jZhWA6BOw8mXB4JNhlmHXyZ4dNV0A-CdTZAlOJU.png" group-title="UK | IFOLLOW",L1 | Sheffield Wednesday
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164536
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Shrewsbury Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYuRWiivc8OOB-T-75vv2zz0Q-PljVVxdxxDbK2ailj1J4lbM-glCxZMZVFypK-jp0.png" group-title="UK | IFOLLOW",L1 | Shrewsbury Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164535
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Wycombe Wanderers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-_3f3VHbJYWcaOA2zVtELkx9KEAy8ZHtQ84E5gVfyNkM.png" group-title="UK | IFOLLOW",L1 | Wycombe Wanderers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164534
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Birmingham City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wY4FcqHZfZ9zVvc_8FK-w_Eg_MYg3Hg2CDh_EZQqRkUO7uGBidMXEjQO3oCfP-bAYQ.png" group-title="UK | CHAMP",CHAMP | Birmingham City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164533
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Blackburn Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYaHRlpaQ-kxTSpzBjlnAjihjlswbB-8thOR8M9gX9T68qFHnexETIaD0GP75b6lho.png" group-title="UK | CHAMP",CHAMP | Blackburn Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164532
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Blackpool" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMCMnu-Oe0Xkt3GUSC6F2RbQkzXidZpqSV_VqP-2NqerHRhNHrj84J_HQimwG4b_r0s2uk85M7K8kmLlPl_Cq0etkk5hpUXuZc-rQF5snX7JCUUZDIevfMao1MVCmq3GUcHBaflQxJ2jGVdSAB1srdBXMnBgl5_uhCedcTOHZP8PY.png" group-title="UK | CHAMP",CHAMP | Blackpool
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164531
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Bristol City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEzeMRvKVjHTH4KrD_SYt-5KeILROKBrvNDNar_pPxi9KkD36gmFOIDoVZNcjzMJAOq.png" group-title="UK | CHAMP",CHAMP | Bristol City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164530
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Burnley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMMfMgsg0fsRnIZSz6JlwuRj_9RloT2MAwkqSpaD1yVRA7AZ3WlG6YdbTBn7wGIZNEV1emV2GXn0P1C9m0QhqssolEUNmZXygD4qsfLBQUFp0.png" group-title="UK | CHAMP",CHAMP | Burnley
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164529
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Cardiff City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeub1TBtX5DuVeWL9lMu4bK9BE2tT0mLII60OOhmb7a9w36hL7KlJiGEdvcgboVS0MmU.png" group-title="UK | CHAMP",CHAMP | Cardiff City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164528
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Coventry City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubovnuIp2-pZC4cgaX4meLXYbUsHIySL_vIJcA5z_htRhVmYDZmjEaeLUXeQCRC8Z8.png" group-title="UK | CHAMP",CHAMP | Coventry City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164527
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Huddersfield Town" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wWoGKKfk_IpOrD5GoTaxtCWT-4uwLwn2XR6wshuTsVjcjPo9TKorgbj7A0oinLpiB9cW2ugMQw5bo__Xt6Z2dQQ.png" group-title="UK | CHAMP",CHAMP | Huddersfield Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164526
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Hull City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZ7ug7_dSi87Pw3gafmd_I-Q2KnfAVJbBwvyLm7TNcThwslnVVWAUSXUe21eUHznPIEcTCiDAxwqbeQBnahu5WB.png" group-title="UK | CHAMP",CHAMP | Hull City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164525
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Luton Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY54Esq8k19yRz5Zoi00c6SbAuNy-ExLeyR_hKqvwlxkbqOf5YsWdRddm90WNmpSrQ.png" group-title="UK | CHAMP",CHAMP | Luton Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164524
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Middlesbrough" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbY6Bs2rMKvXdoNJHhmVkwm77BN-KF7Geq-gKmdlexMubv0ZDYOS1ygkYDWo5ilB7A.png" group-title="UK | CHAMP",CHAMP | Middlesbrough
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164523
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Milwall" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-waH9sKTcqzGiWwQp3rTILoxRJf-wcBpna9eK4km29n2GkldBY7EHuqLtVccGbkwbQg.png" group-title="UK | CHAMP",CHAMP | Milwall
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164522
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Norwich City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbGihpbUvNFLDtTJCPXdQfyCbmhhnV1NYgIxsHKdzT5Mr4RytCXJ9GtLFvAN7k54Sw.png" group-title="UK | CHAMP",CHAMP | Norwich City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164521
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Preston North End" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeublbuJGEiiVmdLa7WDC4TiH6nRCCSXUM7i7t8Ns_GMtGEV7_UevmcrTeJjgVnpS9JI.png" group-title="UK | CHAMP",CHAMP | Preston North End
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164520
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Queens Park Rangers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZyFH4DI0dn4hU4YSMSsnGuHCyE-YSY1oSweM6jRqOKAlV3B9O7ehXUqzUicr80UJU.png" group-title="UK | CHAMP",CHAMP | Queens Park Rangers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164519
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Reading" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wZ8jqq0iZzWrAKZiowjRo8dGmcJ4J9N2Igbhprve715gqipSi_VyRSu5jt23JNtyHA.png" group-title="UK | CHAMP",CHAMP | Reading
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164518
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Rotherham United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYaHRlpaQ-kxTSpzBjlnAjip1sK1HIe6HYttvM1SM7taKrW0Ibg1EL5a8zzVkNETSM.png" group-title="UK | CHAMP",CHAMP | Rotherham United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164517
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Sheffield United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYPs_o9AJqeCM16Dsr-dC_arhpWW6wk6zUECx95Z6ETVthLVdhQNbxcvho5Ogu43XSTw3a5CxKLLh1i20ApHPKA.png" group-title="UK | CHAMP",CHAMP | Sheffield United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164516
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Stoke City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaQ6b6ynY7fPForLKASiJBZjpvm5g9UYyOQsRAiG0ZetGQnA4Khx-zSFQk0fOGh5u7m4rbQyGINfPU0E2ma5-H3.png" group-title="UK | CHAMP",CHAMP | Stoke City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164515
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Sunderland" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeualu8AKWxI7EsyuDDLoDVJ6fWZKpqRlCqHP4OtY_rKcaP7hHUWm2mD_vlzrkG0Lx9BMs9gVkDjxGJp8fens8tR8.png" group-title="UK | CHAMP",CHAMP | Sunderland
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164514
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Swansea City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbM4M8E1yhPRQes9_SA7vz1V524bNHj1k6t453LJbI8wf0ija2Z_TvLDHbGjdvHI5w.png" group-title="UK | CHAMP",CHAMP | Swansea City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164513
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | West Bromwich Albion" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaC6XcZtp0h_1a_M_ojoOCqiSlvlAIZzVyMhjB9Eh2xFNlS1QgNFq6hepq5M89RhqqxWnkTeTkBGq3V9LpkJVtt.png" group-title="UK | CHAMP",CHAMP | West Bromwich Albion
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164512
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Watford" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wfh1yzs7Rpp9kTc4-E_MrNCIwDgX0h9a5KXgDYeKAUldgjRZLSdjRnIcglNhbofn3g.png" group-title="UK | CHAMP",CHAMP | Watford
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164511
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Wigan Athletic" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYgRPxcShUyUjj9oeOQ950g0yJegB86DN44SPkVAmJAEH42EeWmAM_d5LCmrQYmX4Q.png" group-title="UK | CHAMP",CHAMP | Wigan Athletic
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164510
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp News HD" tvg-name="Sky Sports News FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyjj_UAUhJ4X1dhO80eE_vORmpaOtaRgY4M4WYgb6FD2w.png" group-title="UK | SKY SPORTS",Sky Sports News FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164509
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp News HD" tvg-name="Sky Sports News HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyjj_UAUhJ4X1dhO80eE_vORmpaOtaRgY4M4WYgb6FD2w.png" group-title="UK | SKY SPORTS",Sky Sports News HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164508
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp News HD" tvg-name="Sky Sports News SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyjj_UAUhJ4X1dhO80eE_vORmpaOtaRgY4M4WYgb6FD2w.png" group-title="UK | SKY SPORTS",Sky Sports News SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySpMainEv" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yr74D8GtxYNQb5DbyCfHhEk5wQqcFj-cC1xPfef3crzVQ.png" group-title="UK | SKY SPORTS",Sky Sports Main Event FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164506
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySpMainEv" tvg-name="Sky Sports Main Event HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yr74D8GtxYNQb5DbyCfHhEk5wQqcFj-cC1xPfef3crzVQ.png" group-title="UK | SKY SPORTS",Sky Sports Main Event HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164505
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySpMainEv" tvg-name="Sky Sports Main Event SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yr74D8GtxYNQb5DbyCfHhEk5wQqcFj-cC1xPfef3crzVQ.png" group-title="UK | SKY SPORTS",Sky Sports Main Event SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164504
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp PL" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIYNgd4ftR-i3yKxcW-JPD3d214H1lAZhPIU27hRLx99w.png" group-title="UK | SKY SPORTS",Sky Sports Premier League FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164503
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="IE: SKY SPORTS PREMIER LEAGUE" tvg-name="Sky Sports Premier League HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIYNgd4ftR-i3yKxcW-JPD3d214H1lAZhPIU27hRLx99w.png" group-title="UK | SKY SPORTS",Sky Sports Premier League HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp PL" tvg-name="Sky Sports Premier League SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIYNgd4ftR-i3yKxcW-JPD3d214H1lAZhPIU27hRLx99w.png" group-title="UK | SKY SPORTS",Sky Sports Premier League SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Football" tvg-name="Sky Sports Football FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqot5UJZNbMhaE7NjChfrk3v2UeX-Dj2NAzBuKfs6CPCw.png" group-title="UK | SKY SPORTS",Sky Sports Football FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Football" tvg-name="Sky Sports Football HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqot5UJZNbMhaE7NjChfrk3v2UeX-Dj2NAzBuKfs6CPCw.png" group-title="UK | SKY SPORTS",Sky Sports Football HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Football" tvg-name="Sky Sports Football SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqot5UJZNbMhaE7NjChfrk3v2UeX-Dj2NAzBuKfs6CPCw.png" group-title="UK | SKY SPORTS",Sky Sports Football SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Cricket" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp3KQvv7RJBc7oRcywmkMOluIDmiZtd3RdmMDKl_d3m9w.png" group-title="UK | SKY SPORTS",Sky Sports Cricket FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164497
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Cricket" tvg-name="Sky Sports Cricket HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp3KQvv7RJBc7oRcywmkMOluIDmiZtd3RdmMDKl_d3m9w.png" group-title="UK | SKY SPORTS",Sky Sports Cricket HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Cricket" tvg-name="Sky Sports Cricket SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp3KQvv7RJBc7oRcywmkMOluIDmiZtd3RdmMDKl_d3m9w.png" group-title="UK | SKY SPORTS",Sky Sports Cricket SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Golf HD" tvg-name="Sky Sports Golf FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszZIzZMoXEbI9nZ8Bzbbipc5zcWoaT_VuXpSJJGPeZiOA.png" group-title="UK | SKY SPORTS",Sky Sports Golf FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Golf HD" tvg-name="Sky Sports Golf HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszZIzZMoXEbI9nZ8Bzbbipc5zcWoaT_VuXpSJJGPeZiOA.png" group-title="UK | SKY SPORTS",Sky Sports Golf HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Golf HD" tvg-name="Sky Sports Golf SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszZIzZMoXEbI9nZ8Bzbbipc5zcWoaT_VuXpSJJGPeZiOA.png" group-title="UK | SKY SPORTS",Sky Sports Golf SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164492
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp F1" tvg-name="Sky Sports F1 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R_RCwBdIYje6KuG5ZJ1TZooJs5R3J5Q3JGUAVPdiVerg.png" group-title="UK | SKY SPORTS",Sky Sports F1 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164491
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp F1" tvg-name="Sky Sports F1 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R_RCwBdIYje6KuG5ZJ1TZooJs5R3J5Q3JGUAVPdiVerg.png" group-title="UK | SKY SPORTS",Sky Sports F1 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164490
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp F1" tvg-name="Sky Sports F1 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R_RCwBdIYje6KuG5ZJ1TZooJs5R3J5Q3JGUAVPdiVerg.png" group-title="UK | SKY SPORTS",Sky Sports F1 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164489
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp NFL HD" tvg-name="Sky Sports NFL FHD" tvg-logo="" group-title="UK | SKY SPORTS",Sky Sports NFL FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164488
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp NFL HD" tvg-name="Sky Sports NFL HD" tvg-logo="" group-title="UK | SKY SPORTS",Sky Sports NFL HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164487
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp NFL" tvg-name="Sky Sports NFL SD" tvg-logo="" group-title="UK | SKY SPORTS",Sky Sports NFL SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164486
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Arena" tvg-name="Sky Sports Arena FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yref5QjLoWP1sPh4CDIwtOf.png" group-title="UK | SKY SPORTS",Sky Sports Arena FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164485
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Arena" tvg-name="Sky Sports Arena HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yref5QjLoWP1sPh4CDIwtOf.png" group-title="UK | SKY SPORTS",Sky Sports Arena HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164484
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Arena" tvg-name="Sky Sports Arena SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yref5QjLoWP1sPh4CDIwtOf.png" group-title="UK | SKY SPORTS",Sky Sports Arena SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164483
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Mix HD" tvg-name="Sky Sports Mix FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrwWTuKSVNtf8FgVuXAPku4oNIpTTy_pIoTWNqPDhywQA.png" group-title="UK | SKY SPORTS",Sky Sports Mix FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164482
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Mix HD" tvg-name="Sky Sports Mix HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrwWTuKSVNtf8FgVuXAPku4oNIpTTy_pIoTWNqPDhywQA.png" group-title="UK | SKY SPORTS",Sky Sports Mix HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Mix HD" tvg-name="Sky Sports Mix SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrwWTuKSVNtf8FgVuXAPku4oNIpTTy_pIoTWNqPDhywQA.png" group-title="UK | SKY SPORTS",Sky Sports Mix SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164480
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Racing" tvg-name="Sky Sports Racing FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgAbIXCFaPHiiLC9SerT98gQ7yw3K4lEG09LQvJTFQVLw.png" group-title="UK | SKY SPORTS",Sky Sports Racing FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Racing" tvg-name="Sky Sports Racing HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgAbIXCFaPHiiLC9SerT98gQ7yw3K4lEG09LQvJTFQVLw.png" group-title="UK | SKY SPORTS",Sky Sports Racing HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SkySp Racing" tvg-name="Sky Sports Racing SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgAbIXCFaPHiiLC9SerT98gQ7yw3K4lEG09LQvJTFQVLw.png" group-title="UK | SKY SPORTS",Sky Sports Racing SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT SPORT ULTIMATE" tvg-name="BT Sport Ultimate 4K UHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrnIEFQJAna6hcVJxgE0dAn46wZMVUOvsuD_8tp62wv2A.png" group-title="UK | BT SPORTS",BT Sport Ultimate 4K UHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 1 HD" tvg-name="BT Sport 1 50 FPS FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIcFLOzP9y59ydbHFTbS4fno7aK2HeGITEn8a6nh8L_iw.png" group-title="UK | BT SPORTS",BT Sport 1 50 FPS FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 1 HD" tvg-name="BT Sport 1 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIcFLOzP9y59ydbHFTbS4fno7aK2HeGITEn8a6nh8L_iw.png" group-title="UK | BT SPORTS",BT Sport 1 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 1 HD" tvg-name="BT Sport 1 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIcFLOzP9y59ydbHFTbS4fno7aK2HeGITEn8a6nh8L_iw.png" group-title="UK | BT SPORTS",BT Sport 1 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 1 HD" tvg-name="BT Sport 1 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumvUgOu22DrcWUC15PYuU50VckA3JTZ7KrYbU0sLS8Rp9g.png" group-title="UK | BT SPORTS",BT Sport 1 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 2 HD" tvg-name="BT Sport 2 50 FPS FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLegzcPjkMYs_V3VFfkZJLhQzM7WC6X-L5sKPI7O1rLuA.png" group-title="UK | BT SPORTS",BT Sport 2 50 FPS FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 2 HD" tvg-name="BT Sport 2 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLegzcPjkMYs_V3VFfkZJLhQzM7WC6X-L5sKPI7O1rLuA.png" group-title="UK | BT SPORTS",BT Sport 2 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164467
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 2 HD" tvg-name="BT Sport 2 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLegzcPjkMYs_V3VFfkZJLhQzM7WC6X-L5sKPI7O1rLuA.png" group-title="UK | BT SPORTS",BT Sport 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164466
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 2 HD" tvg-name="BT Sport 2 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumv8rWaHF3Cx-c4W1e-aYo3K5UsaQCdyLKKSdGkHqs4Sng.png" group-title="UK | BT SPORTS",BT Sport 2 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 3 HD" tvg-name="BT Sport 3 50 FPS FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumshPSBxpmmnOM4Mhe6U-i3QdbTY_TXlc3xdfq6c3SoCaQ.png" group-title="UK | BT SPORTS",BT Sport 3 50 FPS FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164464
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 3 HD" tvg-name="BT Sport 3 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumshPSBxpmmnOM4Mhe6U-i3QdbTY_TXlc3xdfq6c3SoCaQ.png" group-title="UK | BT SPORTS",BT Sport 3 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164463
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 3 HD" tvg-name="BT Sport 3 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumshPSBxpmmnOM4Mhe6U-i3QdbTY_TXlc3xdfq6c3SoCaQ.png" group-title="UK | BT SPORTS",BT Sport 3 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164462
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 3" tvg-name="BT Sport 3 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumshPSBxpmmnOM4Mhe6U-i3QdbTY_TXlc3xdfq6c3SoCaQ.png" group-title="UK | BT SPORTS",BT Sport 3 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164461
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport//ESPN" tvg-name="BT Sport 4 50 FPS FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEqjZEDIAC3JJ5esPk9lxxdWjgELHEaXmBjKwDv2PSmXw.png" group-title="UK | BT SPORTS",BT Sport 4 50 FPS FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164460
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BTSpt//ESPNHD" tvg-name="BT Sport 4 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEqjZEDIAC3JJ5esPk9lxxdWjgELHEaXmBjKwDv2PSmXw.png" group-title="UK | BT SPORTS",BT Sport 4 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164459
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BTSpt//ESPNHD" tvg-name="BT Sport 4 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEqjZEDIAC3JJ5esPk9lxxdWjgELHEaXmBjKwDv2PSmXw.png" group-title="UK | BT SPORTS",BT Sport 4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164458
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BTSpt//ESPNHD" tvg-name="BT Sport 4 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhgRY4Mr-_XZomf6LBfquUOr5R2kLD1mofVjmNcUuXLGvw.png" group-title="UK | BT SPORTS",BT Sport 4 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164457
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 5" tvg-name="BT Sport 5 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yq3HKP9KENCnIq5eLxHYRufwr6R0UQyl9VJPdZBJDQpUA.png" group-title="UK | BT SPORTS",BT Sport 5 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164456
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 5" tvg-name="BT Sport 5 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yq3HKP9KENCnIq5eLxHYRufwr6R0UQyl9VJPdZBJDQpUA.png" group-title="UK | BT SPORTS",BT Sport 5 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164455
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 6" tvg-name="BT Sport 6 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqoTDUPXT7eXu_kEx26_a2mpubqQvObk09uyqLZztOjJA.png" group-title="UK | BT SPORTS",BT Sport 6 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164454
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 6" tvg-name="BT Sport 6 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqoTDUPXT7eXu_kEx26_a2mpubqQvObk09uyqLZztOjJA.png" group-title="UK | BT SPORTS",BT Sport 6 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164453
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 7" tvg-name="BT Sport 7 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp6l6PUD6jvsGoVw_C8y0ZrgMfnMVWNPsKszTVb-LJdIg.png" group-title="UK | BT SPORTS",BT Sport 7 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164452
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 7" tvg-name="BT Sport 7 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp6l6PUD6jvsGoVw_C8y0ZrgMfnMVWNPsKszTVb-LJdIg.png" group-title="UK | BT SPORTS",BT Sport 7 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164451
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 8" tvg-name="BT Sport 8 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqzVMvM0LzweLgcopnm6YwZJdZRehuJKaqhM_C2q9AzMw.png" group-title="UK | BT SPORTS",BT Sport 8 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164450
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 8" tvg-name="BT Sport 8 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqzVMvM0LzweLgcopnm6YwZJdZRehuJKaqhM_C2q9AzMw.png" group-title="UK | BT SPORTS",BT Sport 8 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164449
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 9" tvg-name="BT Sport 9 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrG6xAoaXlV-UsVXxmymBRPlK7PE-hqkxvEqaj8UUCb3Q.png" group-title="UK | BT SPORTS",BT Sport 9 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164448
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 9" tvg-name="BT Sport 9 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrG6xAoaXlV-UsVXxmymBRPlK7PE-hqkxvEqaj8UUCb3Q.png" group-title="UK | BT SPORTS",BT Sport 9 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164447
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 10" tvg-name="BT Sport 10 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqFQUdw35-G9_qda4aLQzFNzI83rTHetC_Rrisg6gOEhQ.png" group-title="UK | BT SPORTS",BT Sport 10 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164446
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BT Sport 10" tvg-name="BT Sport 10 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqFQUdw35-G9_qda4aLQzFNzI83rTHetC_Rrisg6gOEhQ.png" group-title="UK | BT SPORTS",BT Sport 10 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2164445
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Premiere" tvg-name="Sky Premiere FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswuqz-R8IpPNuaHRdhy6nlqGuZwoddeCguJeXtOsT-7mg.png" group-title="UK | MOVIES",Sky Premiere FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151451
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Premiere" tvg-name="Sky Premiere HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswuqz-R8IpPNuaHRdhy6nlqGuZwoddeCguJeXtOsT-7mg.png" group-title="UK | MOVIES",Sky Premiere HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151450
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Hits" tvg-name="Sky Hits FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCJZLYlYsUb7hE0OGQYoYonzZS3536czftjTAdgRfqrvg.png" group-title="UK | MOVIES",Sky Hits FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151447
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Hits" tvg-name="Sky Hits HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCJZLYlYsUb7hE0OGQYoYonzZS3536czftjTAdgRfqrvg.png" group-title="UK | MOVIES",Sky Hits HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151446
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Greats" tvg-name="Sky Greats FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszTj0mcaq08XWJ1U7SHKbATJZpGK7PKakSE9H_s0nbz-Q.png" group-title="UK | MOVIES",Sky Greats FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151445
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Greats" tvg-name="Sky Greats HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszTj0mcaq08XWJ1U7SHKbATJZpGK7PKakSE9H_s0nbz-Q.png" group-title="UK | MOVIES",Sky Greats HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151444
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MC27 Music Choice:  90 s" tvg-name="Sky Animation FHD" tvg-logo="" group-title="UK | MOVIES",Sky Animation FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151443
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MC27 Music Choice:  90 s" tvg-name="Sky Animation HD" tvg-logo="" group-title="UK | MOVIES",Sky Animation HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151442
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Family" tvg-name="Sky Family FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo1hfMjx05yVps71bnx8olHZITYsxUCCDgChKhED2BmRQ.png" group-title="UK | MOVIES",Sky Family FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151441
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Family" tvg-name="Sky Family HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo1hfMjx05yVps71bnx8olHZITYsxUCCDgChKhED2BmRQ.png" group-title="UK | MOVIES",Sky Family HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151440
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Action" tvg-name="Sky Action FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoZeY9qeuhSRk020fm49u3g7XZrzIeuwe2sGGkRb3QPEw.png" group-title="UK | MOVIES",Sky Action FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151439
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Action" tvg-name="Sky Action HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoZeY9qeuhSRk020fm49u3g7XZrzIeuwe2sGGkRb3QPEw.png" group-title="UK | MOVIES",Sky Action HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151438
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Thriller" tvg-name="Sky Thriller FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCD7D-_HS2dUeob-D7AtMWe8J4TGVuZlg_pvmHK1Cr4_A.png" group-title="UK | MOVIES",Sky Thriller FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151437
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Thriller" tvg-name="Sky Thriller HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCD7D-_HS2dUeob-D7AtMWe8J4TGVuZlg_pvmHK1Cr4_A.png" group-title="UK | MOVIES",Sky Thriller HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151436
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Drama" tvg-name="Sky Drama FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyIkAMPM20dA3uCP5FiMrFtaDrQBqaLQhnzcUcmKSZphQ.png" group-title="UK | MOVIES",Sky Drama FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151435
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Drama" tvg-name="Sky Drama HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyIkAMPM20dA3uCP5FiMrFtaDrQBqaLQhnzcUcmKSZphQ.png" group-title="UK | MOVIES",Sky Drama HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky SciFi/Horror" tvg-name="Sky ScFi/Hor FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyHM0PDtOfq98DhA8Bm5hFw8OmnQWlq4x2dK1APoRdzEg.png" group-title="UK | MOVIES",Sky ScFi/Hor FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151433
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky SciFi/Horror" tvg-name="Sky ScFi/Hor HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyHM0PDtOfq98DhA8Bm5hFw8OmnQWlq4x2dK1APoRdzEg.png" group-title="UK | MOVIES",Sky ScFi/Hor HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151432
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Film4 HD" tvg-name="Film4 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsy0eHmq49zgBybnVHlQdyktHvRdRa4wBditP1sB4LVjaA.png" group-title="UK | MOVIES",Film4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2151431
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="IE: RTE2 HD" tvg-name="Rte Two" tvg-logo="" group-title="UK | IRISH CHANNELS",Rte Two
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2147125
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="IE: RTE ONE HD" tvg-name="Rte One" tvg-logo="" group-title="UK | IRISH CHANNELS",Rte One
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2147124
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="IE: VIRGIN MEDIA TWO HD" tvg-name="Virgin Media 2" tvg-logo="" group-title="UK | IRISH CHANNELS",Virgin Media 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2147123
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="IE: VIRGIN MEDIA ONE HD" tvg-name="Virgin Media 1" tvg-logo="" group-title="UK | IRISH CHANNELS",Virgin Media 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2146987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC One HD" tvg-name="BBC One HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoJsRDWvyZzgRB826mYV7zg45FasTuM9E5oUL0bl8KDew.png" group-title="UK | ENTERTAINMENT",BBC One HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139404
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC Two HD" tvg-name="BBC Two HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yobrHzfwavBEIpgP_i-QpHCQ694EZZ3_t0oh-Iv_nA3fA.png" group-title="UK | ENTERTAINMENT",BBC Two HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139403
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ITV HD" tvg-name="ITV HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDHlUXbgLA1DZc5jeSwMcVB1enMu1DOARuADesYy6nbGw.png" group-title="UK | ENTERTAINMENT",ITV HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Channel 4 HD" tvg-name="Channel 4 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCtwVqNugfTquiBxqXIlzwOsQ2FiNgAgxLnMYR44_I5cQ.png" group-title="UK | ENTERTAINMENT",Channel 4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCrfboAsFW2Npc0TxY3srFfYXq-d64R1O0hMkxbEaeoEA.png" group-title="UK | ENTERTAINMENT",Channel 5 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: GOLD HD" tvg-name="Gold HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqAJDr-ZHU7Qr0c20wh3dWavtwM4ZRzy_2wP3vcMjv4Aw.png" group-title="UK | ENTERTAINMENT",Gold HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: E4 HD" tvg-name="E4 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyYv2d8m5IYepJOONxl4kMlrFzjZoIsKLb_GgtBbbQaHg.png" group-title="UK | ENTERTAINMENT",E4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: More4 HD" tvg-name="More4 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhhoYVw6NOUUSR7lZiZyRIJnugjAJx_C9JGooVwM9_46kw.png" group-title="UK | ENTERTAINMENT",More4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139397
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Witness HD" tvg-name="Sky Witness FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Witness FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Showcase HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Showcase HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139395
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Atlantic HD" tvg-name="Sky Atlantic FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Atlantic FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139394
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SKY MAX" tvg-name="Sky Max HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Max HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139393
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Crime HD" tvg-name="Sky Crime FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Crime FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139392
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Documentaries" tvg-name="Sky Documentaries FHD" tvg-logo="" group-title="UK | ENTERTAINMENT",Sky Documentaries FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139391
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Comedy HD" tvg-name="Sky Comedy HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Comedy HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Nature" tvg-name="Sky Nature FHD" tvg-logo="" group-title="UK | ENTERTAINMENT",Sky Nature FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139389
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Arts HD" tvg-name="Sky Arts HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Sky Arts HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139388
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky History" tvg-name="Sky History FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxPKs2-2IWu-bdnYsMC6wcYrQi_mIp5FvpPvvb5F4zYGA.png" group-title="UK | ENTERTAINMENT",Sky History FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: E! HD" tvg-name="E! HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",E! HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139386
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC Three HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",BBC Three HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139385
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC Four HD" tvg-name="BBC Four HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",BBC Four HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ITV2 HD" tvg-name="ITV 2 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OEerwI52bTbLHe8i45onNvy6beqz8xS6GHdPc8bBs6LWA.png" group-title="UK | ENTERTAINMENT",ITV 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ITV3 HD" tvg-name="ITV 3 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OHqoKBspXDQ4fTBcr3yu8KDLsF9lcU9Yhk9xcz2SmMwVw.png" group-title="UK | ENTERTAINMENT",ITV 3 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ITV4 HD" tvg-name="ITV 4 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OHvSk4Xm1CrzEJwq9zY_qZ1xapvmVwmXAgCkbH24cWCLw.png" group-title="UK | ENTERTAINMENT",ITV 4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139381
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ITVBe" tvg-name="ITVBe" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",ITVBe
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: E4 HD" tvg-name="E4" tvg-logo="http://restream.iptvnow.me:80/images/SDfOM4Fgw92NeOYus0vUaQeAFgmtRx7AJTLad7rEXxcT-T-6aEjYk2nAhazB0M4JSwyngpj-DV-ObSd3q0uOyg.png" group-title="UK | ENTERTAINMENT",E4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: More4 HD" tvg-name="More4" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhhoYVw6NOUUSR7lZiZyRIJnugjAJx_C9JGooVwM9_46kw.png" group-title="UK | ENTERTAINMENT",More4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139378
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 5 USA" tvg-name="5 USA" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyDIyerXprmKm4sr-uWPz7bV9Gex3Im064Kcs0Q7bMrqAA.png" group-title="UK | ENTERTAINMENT",5 USA
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="5ACTION" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",5ACTION
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 5SELECT" tvg-name="5SELECT" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",5SELECT
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 5STAR" tvg-name="5STAR" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",5STAR
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139374
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: alibi HD" tvg-name="alibi" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHszo7svNEUwpwRbSb8wn6q5jn6iuB4-SaVBNEgO6jKZrqw.png" group-title="UK | ENTERTAINMENT",alibi
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Dave HD" tvg-name="Dave" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswT8F02zfRKiBnltFC6nGBQjUzVghuyzHgTd_yO8_5Y_g.png" group-title="UK | ENTERTAINMENT",Dave
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139372
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Dave ja vu" tvg-name="Dave ja vu" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",Dave ja vu
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ComedyCentral" tvg-name="Comedy Central UK" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OH44Yvy-a7UsbFxWF3neVNEH0i4O1JkQEDwYzMeW0LnrA.png" group-title="UK | ENTERTAINMENT",Comedy Central UK
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ComedyXtra" tvg-name="ComedyXtra" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | ENTERTAINMENT",ComedyXtra
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: MTV HD" tvg-name="MTV" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypP0Q4PV5cYa5bOJLBo0YKXeRuddGHROIBpjMuNa4Wf_A.png" group-title="UK | ENTERTAINMENT",MTV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2139368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="B4U Movies" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsyz5STZAWhBizhj-u5v5IJFtt4I2E5vSSTVh5aizTHWTQ.png" group-title="UK | ASIA",B4U Movies
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="B4U Music" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoSdMLd-Saufs5ASrfOoIWa8uI9s7fnXmQ6g0CY9BK47A.png" group-title="UK | ASIA",B4U Music
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124558
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Zee TV HD" tvg-logo="" group-title="UK | ASIA",Zee TV HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124557
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="UK | ASIA",Colors HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124556
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Zee Cinema" tvg-logo="http://vod-logo.net/photos/d89917203b95e6e02c6b0c51605da4da.png" group-title="UK | ASIA",Zee Cinema
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124555
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ColorsCineplex" tvg-logo="" group-title="UK | ASIA",ColorsCineplex
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124554
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Colors Gujarati" tvg-logo="" group-title="UK | ASIA",Colors Gujarati
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124553
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ColorsRishtey" tvg-logo="" group-title="UK | ASIA",ColorsRishtey
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124552
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SONY MAX" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJp132-LcWgDR35jPrIirrMoJh7AIRw_J2d76puVZlpw.png" group-title="UK | ASIA",SONY MAX
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124551
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SONY MAX 2" tvg-logo="" group-title="UK | ASIA",SONY MAX 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124550
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SONY SAB" tvg-logo="" group-title="UK | ASIA",SONY SAB
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124549
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SONY TV" tvg-logo="" group-title="UK | ASIA",SONY TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124548
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Utsav Bharat" tvg-logo="" group-title="UK | ASIA",Utsav Bharat
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124547
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Utsav Gold" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJp132-LcWgDR35jPrIirrNjYSF27dysSglVoZEWqOrYHIgeXgFlUY824PobgrcICg.png" group-title="UK | ASIA",Utsav Gold
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124546
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Utsav Plus" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJp132-LcWgDR35jPrIirrN6h5mK4Gd39U6IAwEtUtpnrvtL4wVtlNQwP0gDPgH3dw.png" group-title="UK | ASIA",Utsav Plus
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2124545
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott8.za" tvg-name="Af | DSTV: Super Sports OTT 8 HD" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 8 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120327
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott7.za" tvg-name="Af | DSTV: Super Sports OTT 7 HD" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 7 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120326
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott6.za" tvg-name="Af | DSTV: Super Sports OTT 6 HD" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 6 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott5.za" tvg-name="Af | DSTV: Super Sports OTT 5" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120324
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott4.za" tvg-name="Af | DSTV: Super Sports OTT 4" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120323
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott3.za" tvg-name="Af | DSTV: Super Sports OTT 3 HD" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 3 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120322
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott2.za" tvg-name="Af | DSTV: Super Sports OTT 2 HD" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportott1.za" tvg-name="Af | DSTV: Super Sports OTT 1 HD" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports OTT 1 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportwwe.za" tvg-name="Af | DSTV: WWE Channel" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: WWE Channel
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportplay.za" tvg-name="Af | DSTV: Super Sport Play" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sport Play
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportmaximo1.za" tvg-name="Af | DSTV: SuperSport Maximo 1" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: SuperSport Maximo 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn2.za" tvg-name="Af | DSTV: ESPN 2" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: ESPN 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="espn.za" tvg-name="Af | DSTV: ESPN 1" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: ESPN 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportmotorsport.za" tvg-name="Af | DSTV: Super Sports MotorSports" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports MotorSports
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersporttennis.za" tvg-name="Af | DSTV: Super Sports Tennis" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Tennis
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportgolf.za" tvg-name="Af | DSTV: Super Sports Golf" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Golf
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportcricket.za" tvg-name="Af | DSTV: Super Sports Cricket" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Cricket
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportrugby.za" tvg-name="Af | DSTV: Super Sports Rugby" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Rugby
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportaction.za" tvg-name="Af | DSTV: Super Sports Action" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Action
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120309
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety4.za" tvg-name="Af | DSTV: Super Sports Variety 4" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Variety 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety3.za" tvg-name="Af | DSTV: Super Sports Variety 3" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Variety 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety2.za" tvg-name="Af | DSTV: Super Sports Variety 2" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Variety 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120306
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportvariety1.za" tvg-name="Af | DSTV: Super Sports Variety 1" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Variety 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportfootball.za" tvg-name="Af | DSTV: Super Sports Football 4" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Football 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120304
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportlaliga.za" tvg-name="Af | DSTV: Super Sports La Liga" tvg-logo="http://vod-logo.net/photos/80e5334c7b4769e77ef119de1611319a.png" group-title="SUPER SPORTS",Af | DSTV: Super Sports La Liga
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120303
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportpremierleague.za" tvg-name="Af | DSTV: Super Sports Premier League" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Premier League
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportpsl.za" tvg-name="Af | DSTV: Super Sports PSL 1" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports PSL 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120301
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportgrandstand.za" tvg-name="Af | DSTV: Super Sports Grand Stand" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Grand Stand
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120300
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportblitz.za" tvg-name="Af | DSTV: Super Sports Blitz" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Super Sports Blitz
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120299
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ginx.za" tvg-name="Af | DSTV: Ginx eSports TV" tvg-logo="" group-title="SUPER SPORTS",Af | DSTV: Ginx eSports TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2120298
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK Premier 2" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",HK Premier 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118553
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA Los Angeles FOX Sports 4K US" tvg-logo="" group-title="US | FOX LOCALS",CA Los Angeles FOX Sports 4K US
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 1 US" tvg-logo="http://vod-logo.net/photos/4e327bd38c16cec1fbc1b08cb4f59e10.png" group-title="US | FOX SPORTS",Fox Sports 1 US
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 2 US" tvg-logo="https://i.ya-webdesign.com/images/fox-sports-2-logo-png-10.png" group-title="US | FOX SPORTS",Fox Sports 2 US
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Cricket FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Cricket FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 502 FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports 502 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 503 FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports 503 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118163
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 504 FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports 504 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 505 FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports 505 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118161
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 506 FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports 506 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118160
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports More 507 FHD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports More 507 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118159
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports More 508 HD" tvg-logo="" group-title="US | FOX SPORTS",Fox Sports More 508 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118158
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 1" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 2" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118156
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 3" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118155
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 4" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118154
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 5" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 6" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 6
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 7" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now Sports 7
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118151
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 1" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9r2rrgzw7UjZ5X1qjndHpf55dnhIerk2_ClELyYsfQpCg.png" group-title="NOW HK",Now HK Premier Sports 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118150
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 4" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9r2rrgzw7UjZ5X1qjndHpf55dnhIerk2_ClELyYsfQpCg.png" group-title="NOW HK",Now HK Premier Sports 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118148
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 5" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9r2rrgzw7UjZ5X1qjndHpf55dnhIerk2_ClELyYsfQpCg.png" group-title="NOW HK",Now HK Premier Sports 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118147
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 6" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9r2rrgzw7UjZ5X1qjndHpf55dnhIerk2_ClELyYsfQpCg.png" group-title="NOW HK",Now HK Premier Sports 6
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118146
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 7" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9r2rrgzw7UjZ5X1qjndHpf55dnhIerk2_ClELyYsfQpCg.png" group-title="NOW HK",Now HK Premier Sports 7
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118145
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Premier Sports 8" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9r2rrgzw7UjZ5X1qjndHpf55dnhIerk2_ClELyYsfQpCg.png" group-title="NOW HK",Now HK Premier Sports 8
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118144
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now Sports 4K" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9qLn_WXNrXD7uxmn2YGDgX4vgfFwKPrtA7Igmz3RH62_w.png" group-title="NOW HK",Now HK Now Sports 4K
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118143
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Now HK Now668" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",Now HK Now668
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118142
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_01" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_01
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118141
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_02" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_02
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118140
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_03" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_03
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118139
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_04" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_04
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118138
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_05" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_05
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118137
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_06" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_06
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118136
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_07" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_07
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118135
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_08" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_08
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118134
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_09" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_09
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118133
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_10" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_10
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118132
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_11" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_11
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118131
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_12" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_12
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118130
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_13" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_13
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118129
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_14" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_14
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118128
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CA | SUPER_SPORTS_15" tvg-logo="" group-title="SUPER SPORTS",CA | SUPER_SPORTS_15
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118127
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 1" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118106
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 2" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118105
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 3" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118104
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 4" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118103
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 5" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118102
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 6" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 6
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118101
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 7" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 7
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118100
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 8" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 8
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118099
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 9" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 9
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118098
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="flowsports RUSH Event 10" tvg-logo="" group-title="FLOW SPORTS",flowsports RUSH Event 10
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118097
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 1" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118096
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 2" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118095
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 3" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118094
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 4" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118093
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 5" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118092
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 6" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 6
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118091
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 7" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 7
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118090
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 8" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 8
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118089
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 9" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 9
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118088
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 10" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 10
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118087
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 11" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 11
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118086
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 12" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 12
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 13" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 13
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118084
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 14" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 14
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118083
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 15" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 15
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118082
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 16" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 16
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118081
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 17" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 17
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118080
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 18" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 18
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118079
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 19" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 19
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118078
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Amazon UK Event 20" tvg-logo="" group-title="AMAZON EVENTS",Amazon UK Event 20
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118077
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 1" tvg-logo="" group-title="BBC Red Button",BBC RB 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118076
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 2" tvg-logo="" group-title="BBC Red Button",BBC RB 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118075
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 3" tvg-logo="" group-title="BBC Red Button",BBC RB 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118074
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 4" tvg-logo="" group-title="BBC Red Button",BBC RB 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118073
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 5" tvg-logo="" group-title="BBC Red Button",BBC RB 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118072
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 6" tvg-logo="" group-title="BBC Red Button",BBC RB 6
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118071
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 7" tvg-logo="" group-title="BBC Red Button",BBC RB 7
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 8" tvg-logo="" group-title="BBC Red Button",BBC RB 8
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 9" tvg-logo="" group-title="BBC Red Button",BBC RB 9
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 10" tvg-logo="" group-title="BBC Red Button",BBC RB 10
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BBC RB 11" tvg-logo="" group-title="BBC Red Button",BBC RB 11
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118066
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 1 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 1 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 2 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 2 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 3 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 3 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 4 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 4 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 5 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 5 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 6 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 6 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 7 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 7 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 8 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 8 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 9 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 9 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 10 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 10 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 11 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 11 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 12 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 12 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 13 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 13 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 14 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 14 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 15 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 15 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 16 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 16 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 17 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 17 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 18 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 18 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118048
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sports Active 19 SD" tvg-logo="" group-title="BBC Red Button",Sports Active 19 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118047
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GAAGO 01: Leitrim VS Sligo - Sunday 5th Jun 14:55" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GAAGO 01: Leitrim VS Sligo - Sunday 5th Jun 14:55
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118046
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GAAGO 02: Limerick VS Clare - Sunday 5th Jun 00:00" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GAAGO 02: Limerick VS Clare - Sunday 5th Jun 00:00
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118045
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV 03: Cork V Clare Munster Hurling Championship Round 3 13:45:00 Sunday 1st May" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV 03: Cork V Clare Munster Hurling Championship Round 3 13:45:00 Sunday 1st May
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118044
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV 04: Tyrone V Derry Ulster Football Championship Quarter Final 15:30:00 Sunday 1st May" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV 04: Tyrone V Derry Ulster Football Championship Quarter Final 15:30:00 Sunday 1st May
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV 05: TBA V TBA The Sunday Game 01/05/2022 21:15:00 Sunday 1st May" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV 05: TBA V TBA The Sunday Game 01/05/2022 21:15:00 Sunday 1st May
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118042
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV: No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV: No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118041
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV: No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV: No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV: No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV: No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV: No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV: No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118035
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118034
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118032
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118031
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118030
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GaaGo TV | No Scheduled Event" tvg-logo="https://x.riddl.re:443/images/gEjQ9c2hK27OSvldgB7MZrhVVbG6L_mYfKcxPsSrynfQ7VA_IeSPKRv4UMrSMgCL.png" group-title="FOOTBALL",GaaGo TV | No Scheduled Event
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118029
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 1" tvg-logo="" group-title="OPTUS",Optus 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 2" tvg-logo="" group-title="OPTUS",Optus 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 3" tvg-logo="" group-title="OPTUS",Optus 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117986
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 4" tvg-logo="" group-title="OPTUS",Optus 4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 5" tvg-logo="" group-title="OPTUS",Optus 5
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 6" tvg-logo="" group-title="OPTUS",Optus 6
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 7" tvg-logo="" group-title="OPTUS",Optus 7
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 8" tvg-logo="" group-title="OPTUS",Optus 8
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 9" tvg-logo="" group-title="OPTUS",Optus 9
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 10" tvg-logo="" group-title="OPTUS",Optus 10
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 11" tvg-logo="" group-title="OPTUS",Optus 11
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 12" tvg-logo="" group-title="OPTUS",Optus 12
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117977
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Optus 13" tvg-logo="" group-title="OPTUS",Optus 13
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2117976
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ten Sports" tvg-logo="" group-title="CRICKET",Ten Sports
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2094941
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Sports Cricket HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp3KQvv7RJBc7oRcywmkMOluIDmiZtd3RdmMDKl_d3m9w.png" group-title="CRICKET",Sky Sports Cricket HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2094844
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IN | Sport: Willow Cricket HD" tvg-logo="" group-title="CRICKET",IN | Sport: Willow Cricket HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2094841
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Usa | Sport: Willow Cricket HD" tvg-logo="" group-title="CRICKET",Usa | Sport: Willow Cricket HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2094840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA | Sport: Willow Cricket Extra" tvg-logo="" group-title="CRICKET",USA | Sport: Willow Cricket Extra
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2094838
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Af | DSTV: Super Sports Cricket" tvg-logo="" group-title="CRICKET",Af | DSTV: Super Sports Cricket
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2094837
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CBBC" tvg-name="CBBC" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQA7d-cpuexwNXyZ0n1Qxv-L.png" group-title="UK | KIDS",CBBC
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CBBC HD" tvg-name="CBBC HD" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQA7d-cpuexwNXyZ0n1Qxv-L.png" group-title="UK | KIDS",CBBC HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CBeebies" tvg-name="CBeebies" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQB87MFU8zvjki08Chrt-o1I7G3advo9T_U30G17Z2vrGg.png" group-title="UK | KIDS",CBeebies
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CBeebies HD" tvg-name="CBeebies HD" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQB87MFU8zvjki08Chrt-o1I7G3advo9T_U30G17Z2vrGg.png" group-title="UK | KIDS",CBeebies HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CITV" tvg-name="CITV" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQDeFtC5iwR2Fms8TiGIROnw.png" group-title="UK | KIDS",CITV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Cartoon Net HD" tvg-name="Cartoon Network HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d22efc9e80e82953c3f1ee26bb699e5.png" group-title="UK | KIDS",Cartoon Network HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Nicktoons" tvg-name="Nicktoons" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQCkBu95z0LPRvXpRVp5xmjxXN_d5fAO7-InDTEwEz-OiA.png" group-title="UK | KIDS",Nicktoons
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072467
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Nick Jr. HD" tvg-name="Nick Jr." tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQD9cIijC1gKBT8ZKLYFDoTXodBXzW0mHH2aBFDUxChzdQ.png" group-title="UK | KIDS",Nick Jr.
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072466
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Nick Jr. HD" tvg-name="Nick Jr." tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQD9cIijC1gKBT8ZKLYFDoTXodBXzW0mHH2aBFDUxChzdQ.png" group-title="UK | KIDS",Nick Jr.
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072464
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Nick Jr.Too" tvg-name="Nick Jr. Too" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyCzqctQb1mEa7VHw94ESd93TDtORNJGnp8p4hwHFlsCMQ.png" group-title="UK | KIDS",Nick Jr. Too
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072463
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: NickelodeonHD" tvg-name="Nickelodeon" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQBSR_IthuDgQihJuU2aiqCUWjUXhiCI17p2v8PR9mKcJA.png" group-title="UK | KIDS",Nickelodeon
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072462
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Boomerang HD" tvg-name="Boomerang" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQBux89SsZvldYhVAtm3-qmVG0qcWcIluzI-0hWaacqkPA.png" group-title="UK | KIDS",Boomerang
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072460
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Cartoonito" tvg-name="Cartoonito" tvg-logo="https://x.riddl.re:443/images/MOmZ0WW_hn0UBG1ICw4NIJ24iU-yoo2XZPSe0me9uQCebv--xawWfprnYeOYxL-Qy2AmUz8uL8EF302-RhwWiA.png" group-title="UK | KIDS",Cartoonito
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072459
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Clubland TV" tvg-name="Clubland TV" tvg-logo="" group-title="UK | MUSIC",Clubland TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: B4U Music" tvg-name="B4U Music" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoSdMLd-Saufs5ASrfOoIWa8uI9s7fnXmQ6g0CY9BK47A.png" group-title="UK | MUSIC",B4U Music
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072383
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Magic" tvg-name="Magic" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswCBOgBNYN2Sbe1ab6ZPjlqsLHeYDc7vWCLyD72Bx6x7w.png" group-title="UK | MUSIC",Magic
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: KISS" tvg-name="KISS" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsy63m2qOekFgGIWTily6d5qjreBP53GuA6bP3r-NXQ1Yg.png" group-title="UK | MUSIC",KISS
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: The Box" tvg-name="The Box" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxCL0vA-9lHrfD6hBmUY32BrFTk700ft8NBr9WMRcA49Q.png" group-title="UK | MUSIC",The Box
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072379
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Kerrang!" tvg-name="Kerrang!" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsx5A6CMhxRDd8FSICYF3LpO2zuup-CQn4RDhc5k726Wnw.png" group-title="UK | MUSIC",Kerrang!
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: MTV MUSIC" tvg-name="MTV MUSIC" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyAXFBqzmVK_zn510Zr8qKeouqsAUZQ89KJ47G_7JD3G-w.png" group-title="UK | MUSIC",MTV MUSIC
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072376
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: MTV HITS" tvg-name="MTV HITS" tvg-logo="" group-title="UK | MUSIC",MTV HITS
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072375
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: MTV HD" tvg-name="MTV HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypP0Q4PV5cYa5bOJLBo0YKXeRuddGHROIBpjMuNa4Wf_A.png" group-title="UK | MUSIC",MTV HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072373
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: MTV HD" tvg-name="MTV" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypP0Q4PV5cYa5bOJLBo0YKXeRuddGHROIBpjMuNa4Wf_A.png" group-title="UK | MUSIC",MTV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072369
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 4Music" tvg-name="4Music" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgHLqvcbtXdW5tsEcHrzwA4-zoZ7uQ-frlzKpAyFTqU1A.png" group-title="UK | MUSIC",4Music
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072368
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Nature" tvg-name="Sky Nature HD" tvg-logo="" group-title="UK | DOCUMENTARIES",Sky Nature HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072245
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Nature" tvg-name="Sky Nature FHD" tvg-logo="" group-title="UK | DOCUMENTARIES",Sky Nature FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky History 2 SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OFYxAy0Hv3hLB44o75frzEHoznwAdwTS6DmasQiXa8xVw.png" group-title="UK | DOCUMENTARIES",Sky History 2 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072242
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky History 2 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OFYxAy0Hv3hLB44o75frzEHoznwAdwTS6DmasQiXa8xVw.png" group-title="UK | DOCUMENTARIES",Sky History 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072241
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky History 2 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OFYxAy0Hv3hLB44o75frzEHoznwAdwTS6DmasQiXa8xVw.png" group-title="UK | DOCUMENTARIES",Sky History 2 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072239
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky History" tvg-name="Sky History SD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxPKs2-2IWu-bdnYsMC6wcYrQi_mIp5FvpPvvb5F4zYGA.png" group-title="UK | DOCUMENTARIES",Sky History SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072238
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky History" tvg-name="Sky History HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxPKs2-2IWu-bdnYsMC6wcYrQi_mIp5FvpPvvb5F4zYGA.png" group-title="UK | DOCUMENTARIES",Sky History HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072237
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky History" tvg-name="Sky History FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxPKs2-2IWu-bdnYsMC6wcYrQi_mIp5FvpPvvb5F4zYGA.png" group-title="UK | DOCUMENTARIES",Sky History FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072235
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Replay SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Replay SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072234
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SKY MAX" tvg-name="Sky Max SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Max SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072233
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SKY MAX" tvg-name="Sky Max HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Max HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072231
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SKY MAX" tvg-name="Sky Max FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Max FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072230
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Arts HD" tvg-name="Sky Arts FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Arts FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072229
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Crime+1" tvg-name="Sky Crime +1 SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Crime +1 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072227
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Crime HD" tvg-name="Sky Crime SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Crime SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072226
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Crime HD" tvg-name="Sky Crime HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Crime HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072225
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Crime HD" tvg-name="Sky Crime FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Crime FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072223
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Witness HD" tvg-name="Sky Witness SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Witness SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072222
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Witness HD" tvg-name="Sky Witness HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Witness HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072221
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Witness HD" tvg-name="Sky Witness FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Witness FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072219
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Atlantic+1" tvg-name="Sky Atlantic +1 SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Atlantic +1 SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072218
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Atlantic HD" tvg-name="Sky Atlantic SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Atlantic SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072217
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Atlantic HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072215
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Sky Atlantic HD" tvg-name="Sky Atlantic FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Atlantic FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072214
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Showcase SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Showcase SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072213
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Showcase HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Showcase HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072211
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Showcase FHD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Showcase FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072210
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="IE: SKY REPLAY" tvg-name="Sky Replay SD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Sky Replay SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2072208
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="UTV HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyB6BOQ4Bf-HS_kgQ4UQC-3G.png" group-title="UK | DOCUMENTARIES",UTV HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071903
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: S4C HD" tvg-name="S4C HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",S4C HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071902
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="paramount.uk" tvg-name="UK Paramount" tvg-logo="https://www.paramount.co.uk/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="UK | DOCUMENTARIES",UK Paramount
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Smithsonian" tvg-name="Smithsonian" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Smithsonian
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Smithsonian HD" tvg-name="Smithsonian HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Smithsonian HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Drama" tvg-name="Drama" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Drama
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: YESTERDAY" tvg-name="YESTERDAY" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZidywiTza-0rp7i7XO_UH0EGFPbXT30u96EVqoBN9qS3g.png" group-title="UK | DOCUMENTARIES",YESTERDAY
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071883
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Eden" tvg-name="Eden" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZjL__ad6pWpfQxoBNYyjXjRz9bN5UCZF458_pHECB1RKg.png" group-title="UK | DOCUMENTARIES",Eden
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Discovery HD" tvg-name="Discovery HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqtz3twRWYNSnV-SFpoJ6L_uk8A_KCaawHafIjurYsO8w.png" group-title="UK | DOCUMENTARIES",Discovery HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071880
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Disc.Turbo" tvg-name="Disc.Turbo" tvg-logo="" group-title="UK | DOCUMENTARIES",Disc.Turbo
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Disc.History" tvg-name="Disc.History" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHsxbyX6s9ozBoscwOA3wiMq8gy0euHuuLOxLGGgcy-miEQ.png" group-title="UK | DOCUMENTARIES",Disc.History
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071877
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Disc.Science" tvg-name="Disc.Science" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo5ZyEVa5Badhi_daNoEBse.png" group-title="UK | DOCUMENTARIES",Disc.Science
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071876
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: TLC HD" tvg-name="TLC HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6S-qMAVRreg_C2MZFCU4nOazUX45Kcpz1G-983CkBYw.png" group-title="UK | DOCUMENTARIES",TLC HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071875
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Eurosport 1 HD" tvg-name="EuroSport 1 FHD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqMRAkV2BFtpkHfcXfWYskVqhC7Zqkn6veao6U7tRw-lA.png" group-title="UK | DOCUMENTARIES",EuroSport 1 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071873
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Eurosport 2 HD" tvg-name="EuroSport 2 HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswqIqKWC1mj1A2ZeS-TMIjm3MszSWwSPZxE4zWCOTqAVg.png" group-title="UK | DOCUMENTARIES",EuroSport 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071872
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: QUEST HD" tvg-name="QUEST HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OF_Q3RbXWt1196V927vKKFPJMWXly4COlvi55XK8Mtb_Q.png" group-title="UK | DOCUMENTARIES",QUEST HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071871
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Quest Red" tvg-name="Quest Red" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypW_Szrq3QqiyKGSy6cEtCmYgGlEPeS7CmnfAnRZ4g2Hw.png" group-title="UK | DOCUMENTARIES",Quest Red
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071869
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: ID" tvg-name="ID" tvg-logo="" group-title="UK | DOCUMENTARIES",ID
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071868
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Animal Planet" tvg-name="Animal Planet" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqimq2cWs7aLDUOjnFpZozweWfYIIsodcc9Qgvk2guZhA.png" group-title="UK | DOCUMENTARIES",Animal Planet
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Food Network" tvg-name="Food Network" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypcyKHkH4SIfNLjHCHY-eVE9fSDxTW1Vf3PC-6Y4rF4_A.png" group-title="UK | DOCUMENTARIES",Food Network
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: DMAX" tvg-name="DMAX" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yocBjBux9baj58kPYop1RWOJggbaB0QQvoOGJRQVFBaIg.png" group-title="UK | DOCUMENTARIES",DMAX
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Really" tvg-name="Really" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Really
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: HGTV" tvg-name="HGTV" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrbWwyCwNtDjS36MCAlzNdPnHF9I-WDWAwCvlkJgR4DhA.png" group-title="UK | DOCUMENTARIES",HGTV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Nat Geo HD" tvg-name="Nat Geo HD" tvg-logo="" group-title="UK | DOCUMENTARIES",Nat Geo HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071860
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowild.uk" tvg-name="UK Nat Geo Wild" tvg-logo="https://1.bp.blogspot.com/-57LmKp3r8Yc/W1IaKpMa0HI/AAAAAAAAH3w/CHG21k-ARJQLg1oks8Qpnv02C1I6LGqTQCLcBGAs/s1600/nat-geo-wild-logo-featured.jpg" group-title="UK | DOCUMENTARIES",UK Nat Geo Wild
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071858
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BLAZE" tvg-name="BLAZE" tvg-logo="" group-title="UK | DOCUMENTARIES",BLAZE
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071857
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Crime+Inv HD" tvg-name="Crime+Inv" tvg-logo="" group-title="UK | DOCUMENTARIES",Crime+Inv
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071856
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: TCM Movies" tvg-name="TCM Movies" tvg-logo="" group-title="UK | DOCUMENTARIES",TCM Movies
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071854
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Pick" tvg-name="Pick" tvg-logo="" group-title="UK | DOCUMENTARIES",Pick
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071853
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CBS Reality" tvg-name="CBS Reality" tvg-logo="" group-title="UK | DOCUMENTARIES",CBS Reality
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071852
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: horror channel" tvg-name="HorrorXtra" tvg-logo="" group-title="UK | DOCUMENTARIES",HorrorXtra
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071849
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PBS America" tvg-logo="" group-title="UK | DOCUMENTARIES",PBS America
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071848
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Together" tvg-name="Together" tvg-logo="" group-title="UK | DOCUMENTARIES",Together
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071846
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: TVC News" tvg-name="TVC News" tvg-logo="" group-title="UK | NEWS",TVC News
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071482
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Good News TV" tvg-name="Good News TV" tvg-logo="" group-title="UK | NEWS",Good News TV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071481
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: GEO News" tvg-name="GEO News" tvg-logo="" group-title="UK | NEWS",GEO News
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GB News HD" tvg-logo="" group-title="UK | NEWS",GB News HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: TALK TV" tvg-name="TalkTV HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | NEWS",TalkTV HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Bloomberg HD" tvg-name="Bloomberg HD" tvg-logo="" group-title="UK | NEWS",Bloomberg HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CNN HD" tvg-name="CNN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b37419cf268d51f56f04431c24f6fe72.png" group-title="UK | NEWS",CNN HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CNN" tvg-name="CNN" tvg-logo="" group-title="UK | NEWS",CNN
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: CNBC" tvg-name="CNBC" tvg-logo="https://i.imgur.com/eDgLV1n.png" group-title="UK | NEWS",CNBC
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC Parliament" tvg-name="BBC Parliament" tvg-logo="https://up.metropol247.co.uk/mikey88772/parliamewnt.png" group-title="UK | NEWS",BBC Parliament
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC NEWS HD" tvg-name="BBC NEWS HD" tvg-logo="https://x.riddl.re:443/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypFeCVP6memsrcLKVs2oEDrUjzsX2ZPIYT_Cw7xV9ckBA.png" group-title="UK | NEWS",BBC NEWS HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071468
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skynews.uk" tvg-name="Sky News" tvg-logo="https://stopgendercide.org/wp-content/uploads/2018/09/sky-news-logo2-1.png" group-title="UK | NEWS",Sky News
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 5STAR" tvg-name="5STAR" tvg-logo="" group-title="UK | DOCUMENTARIES",5STAR
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 5SELECT" tvg-name="5SELECT" tvg-logo="" group-title="UK | DOCUMENTARIES",5SELECT
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="5ACTION" tvg-logo="" group-title="UK | DOCUMENTARIES",5ACTION
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 5 USA" tvg-name="5 USA" tvg-logo="" group-title="UK | DOCUMENTARIES",5 USA
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071050
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Channel 5 HD" tvg-name="Channel 5 HD" tvg-logo="" group-title="UK | DOCUMENTARIES",Channel 5 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 4Music" tvg-name="4Music" tvg-logo="" group-title="UK | DOCUMENTARIES",4Music
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070992
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: 4seven" tvg-name="4seven" tvg-logo="" group-title="UK | DOCUMENTARIES",4seven
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070991
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Film4 HD" tvg-name="Film4" tvg-logo="" group-title="UK | DOCUMENTARIES",Film4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070989
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: More4 HD" tvg-name="More4" tvg-logo="" group-title="UK | DOCUMENTARIES",More4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: E4 HD" tvg-name="E4" tvg-logo="" group-title="UK | DOCUMENTARIES",E4
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Channel 4 HD" tvg-name="Channel 4 HD" tvg-logo="" group-title="UK | DOCUMENTARIES",Channel 4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ITVBe" tvg-logo="" group-title="UK | DOCUMENTARIES",ITVBe
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ITV 4 HD" tvg-logo="" group-title="UK | DOCUMENTARIES",ITV 4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ITV 3 HD" tvg-logo="" group-title="UK | DOCUMENTARIES",ITV 3 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ITV 2 HD" tvg-logo="" group-title="UK | DOCUMENTARIES",ITV 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="ITV HD" tvg-logo="" group-title="UK | DOCUMENTARIES",ITV HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070884
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC Two HD" tvg-name="BBC Two HD" tvg-logo="" group-title="UK | DOCUMENTARIES",BBC Two HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070755
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: BBC One HD" tvg-name="BBC One HD" tvg-logo="" group-title="UK | DOCUMENTARIES",BBC One HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2070754
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 7 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 7 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949341
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 6 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 6 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949340
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 5 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 5 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949339
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 4 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 4 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949338
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 3 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 3 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949336
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 2 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 2 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949335
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Optus Sport 1 Backup" tvg-logo="" group-title="OPTUS",AU: Optus Sport 1 Backup
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949334
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AU: SKY RACING 2" tvg-name="AU: Sky Racing 2" tvg-logo="" group-title="AU | SPORTS",AU: Sky Racing 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949292
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AU: SKY RACING" tvg-name="AU: Sky Racing 1" tvg-logo="" group-title="AU | SPORTS",AU: Sky Racing 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949291
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 502 NRL" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 502 NRL
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949289
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fox Sports 504" tvg-logo="" group-title="AU | SPORTS",Fox Sports 504
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AU: SKY NEWS" tvg-name="AU: SKY News" tvg-logo="" group-title="AU | SPORTS",AU: SKY News
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949287
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AU: FOX SPORTS NEWS HD" tvg-name="AU: Fox Sports News HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports News HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949285
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 507 HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 507 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949284
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 506 HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 506 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949283
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Racing HD" tvg-logo="" group-title="AU | SPORTS",AU: Racing HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949281
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AU: FOX SPORTS 505 HD" tvg-name="AU: Fox Sports 505 HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 505 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949280
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 504 HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 504 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949279
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 503 HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 503 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949277
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 502 HD" tvg-logo="" group-title="AU | SPORTS",AU: Fox Sports 502 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949276
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: Fox Sports 501 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f628fc31ccdc7872cabacb8dbe3e66a2.jpg" group-title="AU | SPORTS",AU: Fox Sports 501 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949275
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AU: BEIN SPORTS 3" tvg-name="AU: beIN Sports 3" tvg-logo="" group-title="AU | SPORTS",AU: beIN Sports 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="" group-title="AU | SPORTS",AU: beIN Sports 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949272
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AU: beIN Sports 1" tvg-logo="" group-title="AU | SPORTS",AU: beIN Sports 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1949271
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sky Atlantic" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" group-title="",Sky Atlantic
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1923237
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Sheffield Wednesday" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubqCPkM9O5wzRlDMeBqAvHrbTmkKfz8tzxV2esattfHmSKs8jZhWA6BOw8mXB4JNhlmHXyZ4dNV0A-CdTZAlOJU.png" group-title="UK | IFOLLOW",L1 | Sheffield Wednesday
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921456
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Port Vale" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubXrT1MWdnmXzWuwr-55Z4a4ibF_ZgcMRZ0TuuXWU60xPJW1NgkrbEBedKKO5Y-JME.png" group-title="UK | IFOLLOW",L1 | Port Vale
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921455
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Portsmouth" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3vAzpPQbWwa_iZKvMHYtbxv3G4rF1x3UfY1-tylrNmJonC4ZWvZ-wou5pDXyySAKwNRGIF8xpljGo_wDex5kHjQ.png" group-title="UK | IFOLLOW",L1 | Portsmouth
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921454
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Plymouth Argyle" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY54Esq8k19yRz5Zoi00c6SEGrr9fP-7Fp6fYu64LUyzdd7LrDhFpRH5ELAHTy4ios.png" group-title="UK | IFOLLOW",L1 | Plymouth Argyle
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921453
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Peterborough United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeub-4EzHDilXSOjrTNoPYn1oABPvRblefqQzHl9B8O9FEQtdl9dcBmOwNdFBMS0yg4s6ul9Irsnio07sC59WXcbr.png" group-title="UK | IFOLLOW",L1 | Peterborough United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921452
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Oxford United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY_Nx1zp-4J8HdYNIKrMyYCxHLEzaZg7nbLAuuvP0nblZ4jDDslnT_JZbJ35VsF6tpEFxya88fm7wgEJsKoAgw-cNry_AJqGTSogzi6Ev-4YcB_D8hTT1AhE8uiM5AKOUA.png" group-title="UK | IFOLLOW",L1 | Oxford United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921451
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Morecambe" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMCMnu-Oe0Xkt3GUSC6F2RbQgkgngCjG0Nq8VYAQDM_oHlP6j0eg1vkI5bh7R2HAnDoKalJyVo4hThC47UG1JQf5Z5fN50NKOu8DQP-ztKqvYBqcNX03wmlT7DKGnuaCAvBRLGPkfBNE6YqWaZ_oP3LfUdj1qVVQQ51kuJPPmBY3Y.png" group-title="UK | IFOLLOW",L1 | Morecambe
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921450
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | MK Dons" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRIw2noD_cpaakPdJkkR0qQYwa8k1Nu-rATAT0Hc2Bfcvn4IVR-HuWWxLFlziHDN0_E8tPKlKPNWMrMbl0HabC4TB7UANjirG9eIFrmt2bhBE_bbt0wo5QRgYksCZsKRvDlg.png" group-title="UK | IFOLLOW",L1 | MK Dons
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921449
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Lincoln City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3vAzpPQbWwa_iZKvMHYtbxrh4ZDyyXpBfV7v28k_ziTsze53xV1E0ClpUWBlfi53cV_Ov4rEaj0tGgSnHGQQXow.png" group-title="UK | IFOLLOW",L1 | Lincoln City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921448
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Ipswich Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZ48aPTI7_vugIzFHiemLElacfiCKw56MNkP9bAEgQLYDNupE4nijDK7mu032_pFY4.png" group-title="UK | IFOLLOW",L1 | Ipswich Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921447
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Forest Green Rovers" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtJlZZha-fedfZV85-dGJZDpz7LvH60xGMOmLYzpASrGHOyuGIMQVESM4HnAvHmNjgXuDkIADSct6g0z6PNb3rxE.png" group-title="UK | IFOLLOW",L1 | Forest Green Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921446
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Fleetwood Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZkUnv_i_lWYykVKqN6x26-FoBSQWn1I_B4PnBHD16TYxs2VN4CLSlSNjz2dcoXVJc.png" group-title="UK | IFOLLOW",L1 | Fleetwood Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921445
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Exeter City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3nSjM5THu16I7hS_e4N2DtISzFEmTKCQMdxI4vHPke07RUtFTQ7Or29lt95uNf67cu1D70y80RQAUNpgT8CSPHA.png" group-title="UK | IFOLLOW",L1 | Exeter City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921444
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Derby County" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZXMDlCx9S6QvK6pRUpTa37_Xuum9pOhTSv9xOTg07xuNKHrio9Wtp0kEUVDiBVwVpUnIond_A8dDzoW_0hdNSyRCXXwDQMNzRGlHvVSt32cO2bn-A4uizrT1BFEgWCXuvsaNu-eV_ixSCzrmHvG3NJ7E_240hT-T6NUnM4V9PXQn.png" group-title="UK | IFOLLOW",L1 | Derby County
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921443
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Cheltenham Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZjtLlVMtAZSaGxHoVIxMqyM2jA7jzWtLSgZCQbACRtV15KNKIJhq1rLC3E64fR7NY.png" group-title="UK | IFOLLOW",L1 | Cheltenham Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921442
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Charlton Athletic" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubs9s5EBZFddkpjKgbmcksYltovrsPw2oJwiMCDStHBXHIpU1hu0VT-Ve88QamgEqo.png" group-title="UK | IFOLLOW",L1 | Charlton Athletic
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921441
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Cambridge United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZVpzYPPAvqo5n8h9AbiHEKBDeL5yDzFj4zkFiedcXGIfN1fDMZFkO1GvKLQaPqp28.png" group-title="UK | IFOLLOW",L1 | Cambridge United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921440
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Burton Albion" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeua-nh8Qq6JZNBhK6jzJH5LQXSqdEdZ05ABq1k71k9IsnN5dqpRLhMzFB29ZqokwW4A.png" group-title="UK | IFOLLOW",L1 | Burton Albion
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921439
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Bristol Rovers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubEk1vfol5WiCaZYx94GWZzu9YhSzwRBlurMkH9x5CMlFT537QWTyB08qfSNnwe7j0.png" group-title="UK | IFOLLOW",L1 | Bristol Rovers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921438
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Bolton Wanderers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubXrT1MWdnmXzWuwr-55Z4a0P02sPDWORsWtosUss_gMoBYui-7Hr-wIJznpKcnA3g.png" group-title="UK | IFOLLOW",L1 | Bolton Wanderers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921437
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Barnley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubUQT7cgv7jmzjjXjyA-Amv27pS8Ve7yZnG2tDWYJ3kWJ0nL-jrPkTUiQz9nbylZyA.png" group-title="UK | IFOLLOW",L1 | Barnley
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921436
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="L1 | Accrington Stanley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMQ3JPiPAZfZh4htHEPKqlnadEfFYrIehzg-wpjiFzfoD3DhglpJ3aBM1NPz2Tb-rRwOjsc77E4-EeN6Ct5TlAgQXTzQggsuIoHd_E0-AuOJNwfSlJgFGdDqcEr17UjAwFMhCjXLFAeLtJNjZIXN8zndPaJk2_TJsMM34C_c0XNkw.png" group-title="UK | IFOLLOW",L1 | Accrington Stanley
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921435
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Wigan Athletic" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYgRPxcShUyUjj9oeOQ950g0yJegB86DN44SPkVAmJAEH42EeWmAM_d5LCmrQYmX4Q.png" group-title="UK | IFOLLOW",CHAMP | Wigan Athletic
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Watford" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wfh1yzs7Rpp9kTc4-E_MrNCIwDgX0h9a5KXgDYeKAUldgjRZLSdjRnIcglNhbofn3g.png" group-title="UK | IFOLLOW",CHAMP | Watford
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921433
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | West Bromwich Albion" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaC6XcZtp0h_1a_M_ojoOCqiSlvlAIZzVyMhjB9Eh2xFNlS1QgNFq6hepq5M89RhqqxWnkTeTkBGq3V9LpkJVtt.png" group-title="UK | IFOLLOW",CHAMP | West Bromwich Albion
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921432
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Swansea City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbM4M8E1yhPRQes9_SA7vz1V524bNHj1k6t453LJbI8wf0ija2Z_TvLDHbGjdvHI5w.png" group-title="UK | IFOLLOW",CHAMP | Swansea City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921431
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Sunderland" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeualu8AKWxI7EsyuDDLoDVJ6fWZKpqRlCqHP4OtY_rKcaP7hHUWm2mD_vlzrkG0Lx9BMs9gVkDjxGJp8fens8tR8.png" group-title="UK | IFOLLOW",CHAMP | Sunderland
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921430
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Stoke City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuaQ6b6ynY7fPForLKASiJBZjpvm5g9UYyOQsRAiG0ZetGQnA4Khx-zSFQk0fOGh5u7m4rbQyGINfPU0E2ma5-H3.png" group-title="UK | IFOLLOW",CHAMP | Stoke City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Sheffield United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYPs_o9AJqeCM16Dsr-dC_arhpWW6wk6zUECx95Z6ETVthLVdhQNbxcvho5Ogu43XSTw3a5CxKLLh1i20ApHPKA.png" group-title="UK | IFOLLOW",CHAMP | Sheffield United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921428
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Rotherham United" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuYaHRlpaQ-kxTSpzBjlnAjip1sK1HIe6HYttvM1SM7taKrW0Ibg1EL5a8zzVkNETSM.png" group-title="UK | IFOLLOW",CHAMP | Rotherham United
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921427
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Reading" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wZ8jqq0iZzWrAKZiowjRo8dGmcJ4J9N2Igbhprve715gqipSi_VyRSu5jt23JNtyHA.png" group-title="UK | IFOLLOW",CHAMP | Reading
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921426
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Queens Park Rangers" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZyFH4DI0dn4hU4YSMSsnGuHCyE-YSY1oSweM6jRqOKAlV3B9O7ehXUqzUicr80UJU.png" group-title="UK | IFOLLOW",CHAMP | Queens Park Rangers
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921425
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Preston North End" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeublbuJGEiiVmdLa7WDC4TiH6nRCCSXUM7i7t8Ns_GMtGEV7_UevmcrTeJjgVnpS9JI.png" group-title="UK | IFOLLOW",CHAMP | Preston North End
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Norwich City" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbGihpbUvNFLDtTJCPXdQfyCbmhhnV1NYgIxsHKdzT5Mr4RytCXJ9GtLFvAN7k54Sw.png" group-title="UK | IFOLLOW",CHAMP | Norwich City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921423
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Milwall" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-waH9sKTcqzGiWwQp3rTILoxRJf-wcBpna9eK4km29n2GkldBY7EHuqLtVccGbkwbQg.png" group-title="UK | IFOLLOW",CHAMP | Milwall
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921422
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Middlesbrough" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wbY6Bs2rMKvXdoNJHhmVkwm77BN-KF7Geq-gKmdlexMubv0ZDYOS1ygkYDWo5ilB7A.png" group-title="UK | IFOLLOW",CHAMP | Middlesbrough
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921421
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Luton Town" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuY54Esq8k19yRz5Zoi00c6SbAuNy-ExLeyR_hKqvwlxkbqOf5YsWdRddm90WNmpSrQ.png" group-title="UK | IFOLLOW",CHAMP | Luton Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921420
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Hull City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuZ7ug7_dSi87Pw3gafmd_I-Q2KnfAVJbBwvyLm7TNcThwslnVVWAUSXUe21eUHznPIEcTCiDAxwqbeQBnahu5WB.png" group-title="UK | IFOLLOW",CHAMP | Hull City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921419
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Huddersfield Town" tvg-logo="http://xtreamraws.cc:80/images/HPtKGfB9kC1koZCifjFRI1oOmLxRywar5qr7W_lHWxVCp15phrzKl5Ns7_DLeZH3_cK5TTUpdVObQVv6WUR-wWoGKKfk_IpOrD5GoTaxtCWT-4uwLwn2XR6wshuTsVjcjPo9TKorgbj7A0oinLpiB9cW2ugMQw5bo__Xt6Z2dQQ.png" group-title="UK | IFOLLOW",CHAMP | Huddersfield Town
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921418
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Coventry City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeubovnuIp2-pZC4cgaX4meLXYbUsHIySL_vIJcA5z_htRhVmYDZmjEaeLUXeQCRC8Z8.png" group-title="UK | IFOLLOW",CHAMP | Coventry City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921417
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Cardiff City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeub1TBtX5DuVeWL9lMu4bK9BE2tT0mLII60OOhmb7a9w36hL7KlJiGEdvcgboVS0MmU.png" group-title="UK | IFOLLOW",CHAMP | Cardiff City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921416
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Burnley" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMMfMgsg0fsRnIZSz6JlwuRj_9RloT2MAwkqSpaD1yVRA7AZ3WlG6YdbTBn7wGIZNEV1emV2GXn0P1C9m0QhqssolEUNmZXygD4qsfLBQUFp0.png" group-title="UK | IFOLLOW",CHAMP | Burnley
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921415
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="CHAMP | Bristol City" tvg-logo="https://x.riddl.re:443/images/dw1VCE4-Qw9yn6SjyL3pZexccQ4WpFtLWekTt8dN0M1IWkfkits3Kbd-qkdeaogMoIvf9q9JT_7OmMXFG7kP8agh9iXawWSMCrZZcNcjeuadDV43x4eTzVjAHbPb2cEzeMRvKVjHTH4KrD_SYt-5KeILROKBrvNDNar_pPxi9KkD36gmFOIDoVZNcjzMJAOq.png" group-title="UK | IFOLLOW",CHAMP | Bristol City
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921414
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Paddy Power TV 3" tvg-logo="" group-title="UK | BETTING & RACING",Paddy Power TV 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921413
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Paddy Power TV 2" tvg-logo="" group-title="UK | BETTING & RACING",Paddy Power TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921412
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Paddy Power TV 1" tvg-logo="" group-title="UK | BETTING & RACING",Paddy Power TV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921411
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ladbrokes TV 3" tvg-logo="" group-title="UK | BETTING & RACING",Ladbrokes TV 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921410
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ladbrokes TV 2" tvg-logo="" group-title="UK | BETTING & RACING",Ladbrokes TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921409
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ladbrokes TV 1" tvg-logo="" group-title="UK | BETTING & RACING",Ladbrokes TV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921408
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Coral TV 2" tvg-logo="" group-title="UK | BETTING & RACING",Coral TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921407
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Coral TV 1" tvg-logo="" group-title="UK | BETTING & RACING",Coral TV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921406
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIS Racing" tvg-logo="" group-title="UK | BETTING & RACING",SIS Racing
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921405
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIS Two" tvg-logo="" group-title="UK | BETTING & RACING",SIS Two
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921404
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SIS One" tvg-logo="" group-title="UK | BETTING & RACING",SIS One
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921403
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="William Hill BTV" tvg-logo="" group-title="UK | BETTING & RACING",William Hill BTV
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="William Hill BTV 2" tvg-logo="" group-title="UK | BETTING & RACING",William Hill BTV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="William Hill BTV 1" tvg-logo="" group-title="UK | BETTING & RACING",William Hill BTV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Racing UK SD" tvg-logo="" group-title="UK | BETTING & RACING",Racing UK SD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921399
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Racing UK HD" tvg-logo="" group-title="UK | BETTING & RACING",Racing UK HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Racing UK FHD" tvg-logo="" group-title="UK | BETTING & RACING",Racing UK FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921397
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: SKY MAX" tvg-name="Sky Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_One_-_Logo_2017.svg/1280px-Sky_One_-_Logo_2017.svg.png" group-title="",Sky Max
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1921103
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Gold" tvg-name="UK Gold" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6513.png" group-title="",UK Gold
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1852721
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: William Hill TV 2" tvg-logo="https://www.seekpng.com/png/full/968-9680973_cake-clientlogos-william-hill-william-hill.png" group-title="UK | BETTING & RACING",Bookies: William Hill TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849662
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: SIS Two" tvg-logo="https://www.sportechplc.com/wp-content/uploads/2019/07/Picture-1.png" group-title="UK | BETTING & RACING",Bookies: SIS Two
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849660
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: SIS Racing" tvg-logo="https://www.sportechplc.com/wp-content/uploads/2019/07/Picture-1.png" group-title="UK | BETTING & RACING",Bookies: SIS Racing
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849659
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: SIS One" tvg-logo="https://www.sportechplc.com/wp-content/uploads/2019/07/Picture-1.png" group-title="UK | BETTING & RACING",Bookies: SIS One
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849658
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Racing.Com" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="UK | BETTING & RACING",Bookies: Racing.Com
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849657
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Paddy Power TV 3" tvg-logo="https://www.newjerseyonlinecasino.org/wp-content/uploads/2018/05/paddypower-150x150.png" group-title="UK | BETTING & RACING",Bookies: Paddy Power TV 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849656
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Paddy Power TV 2" tvg-logo="https://www.newjerseyonlinecasino.org/wp-content/uploads/2018/05/paddypower-150x150.png" group-title="UK | BETTING & RACING",Bookies: Paddy Power TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849655
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Paddy Power TV 1" tvg-logo="https://www.newjerseyonlinecasino.org/wp-content/uploads/2018/05/paddypower-150x150.png" group-title="UK | BETTING & RACING",Bookies: Paddy Power TV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849654
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Ladbrokes TV 3" tvg-logo="https://objects.kaxmedia.com/auto/o/564/b6b820ed1e.png" group-title="UK | BETTING & RACING",Bookies: Ladbrokes TV 3
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849653
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Ladbrokes TV 2" tvg-logo="https://objects.kaxmedia.com/auto/o/564/b6b820ed1e.png" group-title="UK | BETTING & RACING",Bookies: Ladbrokes TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849652
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Ladbrokes TV 1" tvg-logo="https://objects.kaxmedia.com/auto/o/564/b6b820ed1e.png" group-title="UK | BETTING & RACING",Bookies: Ladbrokes TV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849651
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Coral TV 2" tvg-logo="https://i1.wp.com/www.androidbettingappguide.co.uk/wp-content/uploads/2019/09/Coral-bookmaker-logo.png" group-title="UK | BETTING & RACING",Bookies: Coral TV 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849650
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Bookies: Coral TV 1" tvg-logo="https://i1.wp.com/www.androidbettingappguide.co.uk/wp-content/uploads/2019/09/Coral-bookmaker-logo.png" group-title="UK | BETTING & RACING",Bookies: Coral TV 1
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1849649
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: MUTV HD" tvg-name="MUTV FHD" tvg-logo="https://i.ibb.co/wRgyftR/MUTV.png" group-title="UK | SKY SPORTS",MUTV FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1841367
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Eurosport 2 HD" tvg-name="Eurosport 2 FHD" tvg-logo="https://static.epg.best/it/Eurosport2.it.png" group-title="Eurosport",Eurosport 2 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1841366
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Eurosport 1 HD" tvg-name="Eurosport 1 FHD" tvg-logo="https://static.epg.best/it/Eurosport.it.png" group-title="Eurosport",Eurosport 1 FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1841365
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="English | beIN SPORTS" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="US | SLING TV",English | beIN SPORTS
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2171033
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR- BeIN SPORTS 3 English FHD" tvg-logo="" group-title="BEIN",AR- BeIN SPORTS 3 English FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2168499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR- BeIN SPORTS 2 English FHD" tvg-logo="" group-title="BEIN",AR- BeIN SPORTS 2 English FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2168496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR- BeIN SPORTS 1 English FHD" tvg-logo="" group-title="BEIN",AR- BeIN SPORTS 1 English FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2168493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Smithsonian" tvg-name="Smithsonian" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Smithsonian
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Smithsonian HD" tvg-name="Smithsonian HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Smithsonian HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071892
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Nat Geo HD" tvg-name="National Geographic FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png" group-title="UK | DOCUMENTARIES",National Geographic FHD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1841008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK Premier 2" tvg-logo="https://x.riddl.re:443/images/YlRQUuty6H0ujU479ZHjmf8bYQugNNPUb1cIt8lbO9o44aAdL2v51j5fpOvUeXD8.png" group-title="NOW HK",HK Premier 2
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2118494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="GAC Family" tvg-logo="" group-title="US | ENTERTAINMENT",GAC Family
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2191502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stingray Hot Country" tvg-logo="" group-title="CA | STINGRAY",Stingray Hot Country
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2255321
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stingray Greatest Hits" tvg-logo="" group-title="CA | STINGRAY",Stingray Greatest Hits
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2255320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stingray Flashback 70" tvg-logo="" group-title="CA | STINGRAY",Stingray Flashback 70
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2255319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="CA | STINGRAY",Stingray Classic Rock
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2255318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 1 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 1 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 2 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 2 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 3 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 3 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145195
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 4 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 4 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145194
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 5 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 5 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145193
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 6 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 6 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145192
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 7 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 7 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145191
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 8 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 8 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 9 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 9 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145189
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 10 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 10 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145188
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 11 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 11 HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2145187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dazn Sports 12 HD" tvg-logo="http://files.rednetcontent.com/chlogo2/english/DAZN_sports.png" group-title="DAZN CA",Dazn Sports 12 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="24/7 The Rockford Files 1974" tvg-logo="https://www.themoviedb.org/t/p/w1280/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg" group-title="24-7 | CLASSICS",24/7 The Rockford Files 1974
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2161253
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="US: SMITHSONIAN EAST" tvg-name="Smithsonian Channel" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="US | ENTERTAINMENT",Smithsonian Channel
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2141579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="US: SMITHSONIAN EAST" tvg-name="Smithsonian Channel" tvg-logo="https://affiliations.si.edu/wp-content/uploads/2019/05/channel.png" group-title="PARAMOUNT+",Smithsonian Channel
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1830625
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="US: SMITHSONIAN WEST" tvg-name="SMITHSONIAN WEST" tvg-logo="http://armstrongonewire.com/sites/Portals/1/EasyDNNnews/892/smithsonianchannel.jpg" group-title="PARAMOUNT+",SMITHSONIAN WEST
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/1828864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Smithsonian" tvg-name="Smithsonian" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Smithsonian
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071894
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="UK: Smithsonian HD" tvg-name="Smithsonian HD" tvg-logo="https://x.riddl.re:443/images/y6tBqteyVtTKki9KrmYqEmOPLOHT_TYHJ4o3i103NDD7JW2NGHVAkEmbYowv9cDj.png" group-title="UK | DOCUMENTARIES",Smithsonian HD
+http://ch1lla.cc:8080/lo.ren.z.ofishe.r4.44@gmail.com/mufc1902/2071892
